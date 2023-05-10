@@ -1,0 +1,122 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: 8FM8ZNjl8FC7yO9oOOudOZbmJ6Q=
+
+Name: res/anim/ic_signal_wifi_transient_animation_0.xml
+SHA1-Digest: Hjij5HnB6G9yakccGpOjAkjx0vU=
+
+Name: res/anim/ic_signal_wifi_transient_animation_1.xml
+SHA1-Digest: Hjij5HnB6G9yakccGpOjAkjx0vU=
+
+Name: res/color/switch_track_material.xml
+SHA1-Digest: lQPT9O6X2WHbz45y9HTP0e7RD4M=
+
+Name: res/drawable/ic_ab_back_material.xml
+SHA1-Digest: Dwr57JTSTnlHM92KF1F1WH6+tvc=
+
+Name: res/drawable/ic_audio_ring_notif_mute.xml
+SHA1-Digest: LpcVwy+XSfLmcDCtFGQF78xuM7Q=
+
+Name: res/drawable/ic_bluetooth_transient_animation.xml
+SHA1-Digest: /LCvCIUCvsQUwUlg50QDouI6GDc=
+
+Name: res/drawable/ic_bluetooth_transient_animation_drawable.xml
+SHA1-Digest: /LCvCIUCvsQUwUlg50QDouI6GDc=
+
+Name: res/drawable/ic_mode_edit.xml
+SHA1-Digest: C2JozfT8qKTIi4DWHYduvVdOs2Q=
+
+Name: res/drawable/ic_qs_airplane.xml
+SHA1-Digest: gGuBP9qnx7NrWmqLiNcbpuGhm28=
+
+Name: res/drawable/ic_qs_auto_rotate.xml
+SHA1-Digest: d9Jkllo7vLuSOS8ebrfazY088og=
+
+Name: res/drawable/ic_qs_battery_saver.xml
+SHA1-Digest: /PVi57WKBBjtGKR3FKh+h9OL9Xo=
+
+Name: res/drawable/ic_qs_bluetooth.xml
+SHA1-Digest: /LCvCIUCvsQUwUlg50QDouI6GDc=
+
+Name: res/drawable/ic_qs_dnd.xml
+SHA1-Digest: +41Th1y+vYfLW3IjBDjckfhu/9k=
+
+Name: res/drawable/ic_qs_flashlight.xml
+SHA1-Digest: j45v1cSEblABgQtI2LXg1wJMOZU=
+
+Name: res/drawable/ic_qs_night_display_on.xml
+SHA1-Digest: xIsX/3uKpbIT/cYDnj/nqeF1cbI=
+
+Name: res/drawable/ic_qs_ui_mode_night.xml
+SHA1-Digest: O4S05KdUFY6oiWCB6YjivuebygM=
+
+Name: res/drawable/ic_settings_bluetooth.xml
+SHA1-Digest: /wifWRnQnx8CthSwlIVgXzUNOGQ=
+
+Name: res/drawable/ic_signal_cellular_0_4_bar.xml
+SHA1-Digest: HGGyoZlwbx4+8srgCKxTgdDP7Mo=
+
+Name: res/drawable/ic_signal_cellular_0_5_bar.xml
+SHA1-Digest: HGGyoZlwbx4+8srgCKxTgdDP7Mo=
+
+Name: res/drawable/ic_signal_cellular_1_4_bar.xml
+SHA1-Digest: TPnJ9XNJHRUufzMiHC51wl8AspQ=
+
+Name: res/drawable/ic_signal_cellular_1_5_bar.xml
+SHA1-Digest: TPnJ9XNJHRUufzMiHC51wl8AspQ=
+
+Name: res/drawable/ic_signal_cellular_2_4_bar.xml
+SHA1-Digest: 8EDKpWksIqaxpj3EtDbnB70aioc=
+
+Name: res/drawable/ic_signal_cellular_2_5_bar.xml
+SHA1-Digest: 8EDKpWksIqaxpj3EtDbnB70aioc=
+
+Name: res/drawable/ic_signal_cellular_3_4_bar.xml
+SHA1-Digest: owvVrvUQq/ES0CL3SsJT5f4iW+s=
+
+Name: res/drawable/ic_signal_cellular_3_5_bar.xml
+SHA1-Digest: owvVrvUQq/ES0CL3SsJT5f4iW+s=
+
+Name: res/drawable/ic_signal_cellular_4_4_bar.xml
+SHA1-Digest: 2waf9K7B5HFyqNF2K9hJbfr+dXg=
+
+Name: res/drawable/ic_signal_cellular_4_5_bar.xml
+SHA1-Digest: 2waf9K7B5HFyqNF2K9hJbfr+dXg=
+
+Name: res/drawable/ic_signal_cellular_5_5_bar.xml
+SHA1-Digest: 2waf9K7B5HFyqNF2K9hJbfr+dXg=
+
+Name: res/drawable/ic_signal_location.xml
+SHA1-Digest: kEVliFlJwrwTrgLXkOYoKjrhY/s=
+
+Name: res/drawable/ic_signal_wifi_transient_animation.xml
+SHA1-Digest: RVdORnAR6fEl8MP/+TyOqcbBgvo=
+
+Name: res/drawable/ic_signal_wifi_transient_animation_drawable.xml
+SHA1-Digest: HAGs/kHEhi2sFs+8twa1HADwZWM=
+
+Name: res/drawable/ic_wifi_signal_0.xml
+SHA1-Digest: 12tbz76M+XQb9QCdohZxDAJDiLc=
+
+Name: res/drawable/ic_wifi_signal_1.xml
+SHA1-Digest: VmzP8irlngX3uWf+/ao5AtW4aA4=
+
+Name: res/drawable/ic_wifi_signal_2.xml
+SHA1-Digest: C/hukMN7DQhVJPanL4m8ZuMMudo=
+
+Name: res/drawable/ic_wifi_signal_3.xml
+SHA1-Digest: 10qAS1C00wwrG+e48Cfx3FYjyZo=
+
+Name: res/drawable/ic_wifi_signal_4.xml
+SHA1-Digest: uZXj5qOagC/fBowSzm97YWHIVWw=
+
+Name: res/drawable/perm_group_location.xml
+SHA1-Digest: kEVliFlJwrwTrgLXkOYoKjrhY/s=
+
+Name: res/drawable/switch_track_material.xml
+SHA1-Digest: FRF+F8fLCfK9J/jfdGR1xlyf014=
+
+Name: resources.arsc
+SHA1-Digest: 4gT8TVeq8n3RxcCY+e4DvF20RqQ=
+

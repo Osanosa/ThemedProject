@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="system_neutral2_0">#ffffffff</color>
+    <color name="system_neutral2_10">#fffdfffa</color>
+    <color name="system_neutral2_100">#ffeeffcc</color>
+    <color name="system_neutral2_1000">#ff000000</color>
+    <color name="system_neutral2_200">#ffddff99</color>
+    <color name="system_neutral2_300">#ffccff66</color>
+    <color name="system_neutral2_400">#ffbbff33</color>
+    <color name="system_neutral2_50">#fff7ffe6</color>
+    <color name="system_neutral2_500">#ffa9fd00</color>
+    <color name="system_neutral2_600">#ff88cc00</color>
+    <color name="system_neutral2_700">#ff669900</color>
+    <color name="system_neutral2_800">#ff446600</color>
+    <color name="system_neutral2_900">#ff223300</color>
+    <color name="white">@color/system_neutral2_50</color>
+</resources>

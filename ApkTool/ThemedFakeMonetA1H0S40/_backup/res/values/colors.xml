@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_device_default_light">@color/system_accent1_600</color>
+    <color name="accent_device_default_dark">@color/system_accent1_100</color>
+    <color name="system_accent1_0">#ffffffff</color>
+    <color name="system_accent1_10">#fffdfbfb</color>
+    <color name="system_accent1_100">#fff0dbdb</color>
+    <color name="system_accent1_1000">#ff000000</color>
+    <color name="system_accent1_200">#ffe0b8b8</color>
+    <color name="system_accent1_300">#ffd19494</color>
+    <color name="system_accent1_400">#ffc27070</color>
+    <color name="system_accent1_50">#fff7eded</color>
+    <color name="system_accent1_500">#ffb14c4c</color>
+    <color name="system_accent1_600">#ff8f3d3d</color>
+    <color name="system_accent1_700">#ff6b2e2e</color>
+    <color name="system_accent1_800">#ff471f1f</color>
+    <color name="system_accent1_900">#ff240f0f</color>
+</resources>

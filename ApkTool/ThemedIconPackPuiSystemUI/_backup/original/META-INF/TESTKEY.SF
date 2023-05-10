@@ -1,0 +1,41 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: Q75mfmToWVmvD7pIumV35qNV9Ek=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: eM/hzP9SukpskS5XoMqAajhnZVI=
+
+Name: res/drawable/ic_4g_mobiledata.xml
+SHA1-Digest: qjjPRcplEg7NhlRbGKzNkIGJ7oQ=
+
+Name: res/drawable/ic_4g_plus_mobiledata.xml
+SHA1-Digest: a01jABrgpy7kkeCnhBnNLDITGUE=
+
+Name: res/drawable/ic_5g_mobiledata.xml
+SHA1-Digest: CV8lsXMwz9dQGiPjQeYl0FEi4HU=
+
+Name: res/drawable/ic_lte_mobiledata.xml
+SHA1-Digest: qjyKHTky1oMthDYkNiC/LzgaV3M=
+
+Name: res/drawable/ic_lte_plus_mobiledata.xml
+SHA1-Digest: FPI+HEsKZZ2ia+W8rJO+HJ8ak64=
+
+Name: res/drawable/qs_background_primary.xml
+SHA1-Digest: P+ZL0v29f2j3Mz2KfALgmevRdsw=
+
+Name: res/drawable/stat_sys_data_fully_connected_4g.xml
+SHA1-Digest: i2/iYVrODx4o9nN1/TldhpZjIy8=
+
+Name: res/drawable/stat_sys_data_fully_connected_4g_plus.xml
+SHA1-Digest: ApY6aBO639CGc5IR6d5DlehXNTU=
+
+Name: res/drawable/stat_sys_data_fully_connected_lte.xml
+SHA1-Digest: Pz/xAtOw9Qg4Tr0bgneH0MgiM4Y=
+
+Name: res/drawable/stat_sys_data_fully_connected_lte_plus.xml
+SHA1-Digest: BrenElOj7LYtTP4bZZK7zAermQw=
+
+Name: resources.arsc
+SHA1-Digest: IzN3QFSDcBlCJ9pmtiWj3dM4AiY=
+

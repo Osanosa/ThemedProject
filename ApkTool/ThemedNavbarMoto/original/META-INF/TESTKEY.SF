@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: MM4UAmleLi+VhHS76vARVn6lzSk=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: j+OJ9SH/sTlTe66wpQHve3+SNPU=
+
+Name: res/drawable/ic_sysbar_back.xml
+SHA1-Digest: Wf55VFh5p2j/y8RpfUeVNXVOt54=
+
+Name: res/drawable/ic_sysbar_home.xml
+SHA1-Digest: RVPiS4YzjYYxBvxHk3XpUco31T8=
+
+Name: res/drawable/ic_sysbar_recent.xml
+SHA1-Digest: Orc7bJJvoRKiIVWFwOljuK3Ws/w=
+
+Name: resources.arsc
+SHA1-Digest: WnPOAWzOZfzRf700qkwWZbEiZOc=
+

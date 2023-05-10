@@ -1,0 +1,485 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: 5iEGfpVBRl10HMc1AGQ1rpZlHPQ=
+
+Name: res/drawable-anydpi/ic_menu_add.xml
+SHA1-Digest: d8RqNIovfX7tV3EjGz+uFk6d3es=
+
+Name: res/drawable-anydpi/ic_menu_agenda.xml
+SHA1-Digest: 75n18b24oZvfrVfOjyZ9Wo0drZk=
+
+Name: res/drawable-anydpi/ic_menu_always_landscape_portrait.xml
+SHA1-Digest: N6lemJBufsK/OdW8STs77yk3sbY=
+
+Name: res/drawable-anydpi/ic_menu_archive.xml
+SHA1-Digest: NH8dasUIsvoQAmmB1T16gMSyQvo=
+
+Name: res/drawable-anydpi/ic_menu_attachment.xml
+SHA1-Digest: jnUrhVXZVRfIsUMUbNz3styqcH0=
+
+Name: res/drawable-anydpi/ic_menu_block.xml
+SHA1-Digest: 7u/TmFK6ef8uoZqljzQnPew/4QE=
+
+Name: res/drawable-anydpi/ic_menu_blocked_user.xml
+SHA1-Digest: ZzlPcqpb3gpc6UdtPsxNuiBApi0=
+
+Name: res/drawable-anydpi/ic_menu_call.xml
+SHA1-Digest: KqXI5yH2KyTUfpTVN4eOFk2MeIg=
+
+Name: res/drawable-anydpi/ic_menu_camera.xml
+SHA1-Digest: hWzppUKuZSokiQ5YBKKRsgRSZEU=
+
+Name: res/drawable-anydpi/ic_menu_cc_am.xml
+SHA1-Digest: fJ28Cx5Krsf+VBBy4M0ftA/uy/Y=
+
+Name: res/drawable-anydpi/ic_menu_chat_dashboard.xml
+SHA1-Digest: trcLUXXqoKpQOv3CtBGO8egS8FU=
+
+Name: res/drawable-anydpi/ic_menu_clear_playlist.xml
+SHA1-Digest: kqFo7QPLofZSDnyvpJuvIfoteHg=
+
+Name: res/drawable-anydpi/ic_menu_compass.xml
+SHA1-Digest: kZik7wRSFXHdCwtkNj55gM37EVo=
+
+Name: res/drawable-anydpi/ic_menu_compose.xml
+SHA1-Digest: J3NsDOwJ/NED4jtsi49R24IZgC4=
+
+Name: res/drawable-anydpi/ic_menu_crop.xml
+SHA1-Digest: wrP7QeF18UCrxcbmf5EL7pGjjwA=
+
+Name: res/drawable-anydpi/ic_popup_sync_1.xml
+SHA1-Digest: Shpa7c/vVX+pX6Nccao/f2K66M8=
+
+Name: res/drawable-anydpi/ic_popup_sync_2.xml
+SHA1-Digest: 7AjPoZ+rTR1+XqbRIdY/rsLSYI4=
+
+Name: res/drawable-anydpi/ic_popup_sync_3.xml
+SHA1-Digest: aWRcsfqkIHbDsquYrnvO0DwuYYE=
+
+Name: res/drawable-anydpi/ic_popup_sync_4.xml
+SHA1-Digest: DSM9qC4ypLxzAQRIFAy5ZwQB1Qc=
+
+Name: res/drawable-anydpi/ic_popup_sync_5.xml
+SHA1-Digest: U4tRHFA8XOX422qDjGl6DacZgVw=
+
+Name: res/drawable-anydpi/ic_popup_sync_6.xml
+SHA1-Digest: Mn654D//1gu3rr3wJqdELXUDGp0=
+
+Name: res/drawable-anydpi/switch_thumb_material_anim.xml
+SHA1-Digest: gUmsxpKzPgrb+ax5STgkYFk9Wn8=
+
+Name: res/drawable/btn_switch_to_off_mtrl_00001.xml
+SHA1-Digest: rkj1aMJ7GltdHPj1PaDnkLT9MLQ=
+
+Name: res/drawable/btn_switch_to_on_mtrl_00012.xml
+SHA1-Digest: OZRSTVfTg4MsLFQ/A9Qaby7iyTQ=
+
+Name: res/drawable/emergency_icon.xml
+SHA1-Digest: TvbJdjBheMeuXSbjDY1aJMBh6Ws=
+
+Name: res/drawable/ic_ab_back_material.xml
+SHA1-Digest: EU/wv4Ux+2IMJqAbNlpCnXtGvXU=
+
+Name: res/drawable/ic_account_circle.xml
+SHA1-Digest: weSq5o7KUkZs8PnbK8jAjkBP4Vk=
+
+Name: res/drawable/ic_alarm.xml
+SHA1-Digest: sQ1Jae70svNIr6EsGJof9dH0UmA=
+
+Name: res/drawable/ic_alarm_dim.xml
+SHA1-Digest: sQ1Jae70svNIr6EsGJof9dH0UmA=
+
+Name: res/drawable/ic_audio_alarm.xml
+SHA1-Digest: CBRBepyE2gZ8lEP8HN1AcT/w0JQ=
+
+Name: res/drawable/ic_audio_alarm_mute.xml
+SHA1-Digest: w8dJP+6w0XDfG4lNlt6FInfwU0o=
+
+Name: res/drawable/ic_audio_media.xml
+SHA1-Digest: jd1e2F7yO9oiKNeuLKJOqNrvezI=
+
+Name: res/drawable/ic_audio_media_mute.xml
+SHA1-Digest: UX6O1xGYm/Irs1mzyVyq4V8SAFo=
+
+Name: res/drawable/ic_audio_notification_mute_new.xml
+SHA1-Digest: isDWGcpXMZF3yKFh+oAeMO9y1tU=
+
+Name: res/drawable/ic_audio_notification_new.xml
+SHA1-Digest: 3sxtyw25wBC6NzLDXrJJBRq/9Q0=
+
+Name: res/drawable/ic_audio_ring_notif.xml
+SHA1-Digest: PFQQBf/U/mwdPpJuXRlNmTfNJb0=
+
+Name: res/drawable/ic_audio_ring_notif_mute.xml
+SHA1-Digest: 3PjRAL4bmL4q68BPeQld7MgPuNE=
+
+Name: res/drawable/ic_audio_ring_notif_vibrate.xml
+SHA1-Digest: Bp6IGzw0ZBUZgxfdK+F5DtQ5E4Y=
+
+Name: res/drawable/ic_camera_alt_24dp.xml
+SHA1-Digest: pCSN9WJp2HyMN3EsEVlO/9TNsBk=
+
+Name: res/drawable/ic_close.xml
+SHA1-Digest: LUOCHZJGvfp9NzPyV1TG586BZq4=
+
+Name: res/drawable/ic_dnd.xml
+SHA1-Digest: IQkbZMxIIWu8c4As6DNKHs8YGOk=
+
+Name: res/drawable/ic_dnd_total_silence.xml
+SHA1-Digest: XTCVK0UdJHTIp7XnN4yII7T2eb4=
+
+Name: res/drawable/ic_doc_apk.xml
+SHA1-Digest: RgRl2ET4cU5X6FXx18Dq6HmyRew=
+
+Name: res/drawable/ic_doc_audio.xml
+SHA1-Digest: rcWYSyypRjj+s4SGalX7w3FuIrY=
+
+Name: res/drawable/ic_doc_certificate.xml
+SHA1-Digest: zPTdsX7eQKi4fI2By7oRe5CG6vo=
+
+Name: res/drawable/ic_doc_codes.xml
+SHA1-Digest: ZrnSXA8xuz5r39PBz57Q7a9lyI8=
+
+Name: res/drawable/ic_doc_compressed.xml
+SHA1-Digest: eJ8VEaSwPtdzOpn79bylLvlOfU0=
+
+Name: res/drawable/ic_doc_contact.xml
+SHA1-Digest: LBPSwtKUmQFKL2vUNaL+nn97trA=
+
+Name: res/drawable/ic_doc_event.xml
+SHA1-Digest: fqZTfTaYZit0dUba2aDfP8N9Q88=
+
+Name: res/drawable/ic_doc_excel.xml
+SHA1-Digest: TJAAOvFa2oFUJlb6SKccSGykdr4=
+
+Name: res/drawable/ic_doc_generic.xml
+SHA1-Digest: HFcbZeE9LO0OSgY1AU9QzlrAOZ8=
+
+Name: res/drawable/ic_doc_image.xml
+SHA1-Digest: TI3fH8I7ZsxlVaFIF8vxnko1rps=
+
+Name: res/drawable/ic_doc_pdf.xml
+SHA1-Digest: O5X2Sjtyy3IBSadv4sVoedjgIqA=
+
+Name: res/drawable/ic_doc_powerpoint.xml
+SHA1-Digest: S8XOQi0zUHboZ5vHZX47iYhpik0=
+
+Name: res/drawable/ic_doc_presentation.xml
+SHA1-Digest: 7b8bYBIJynzS/9lfhETb3Z25fW0=
+
+Name: res/drawable/ic_doc_spreadsheet.xml
+SHA1-Digest: rrzeNd+UWAxjb4ja88dM0LX5c4s=
+
+Name: res/drawable/ic_doc_text.xml
+SHA1-Digest: xjVTzvDn41n46F5qgs/mAHjWp1w=
+
+Name: res/drawable/ic_doc_video.xml
+SHA1-Digest: WwDqLYZjbzQ/+O7hS0KPF0L6jMg=
+
+Name: res/drawable/ic_doc_word.xml
+SHA1-Digest: 0nIjNDiqxsPIhnJKH8XCET+IjFE=
+
+Name: res/drawable/ic_eject_24dp.xml
+SHA1-Digest: lBhh+pkg3LkRISe0KV74gT4U2Fk=
+
+Name: res/drawable/ic_faster_emergency.xml
+SHA1-Digest: I1WMFdq/HXOz5VDRDHpV8mMn/7I=
+
+Name: res/drawable/ic_feedback.xml
+SHA1-Digest: BSDL4QgqlwFcwmtyTVZykzv/WRw=
+
+Name: res/drawable/ic_location.xml
+SHA1-Digest: 9+MhvTWm4BY6Q8Jn6RaKVlVDG2g=
+
+Name: res/drawable/ic_lock_airplane_mode.xml
+SHA1-Digest: 4i+Fvr4pUob6yFONNS89NW4IuMM=
+
+Name: res/drawable/ic_lock_airplane_mode_off.xml
+SHA1-Digest: tTzLo43/ZyEn64tovtR9aHsiTLI=
+
+Name: res/drawable/ic_lock_bugreport.xml
+SHA1-Digest: 1BQxaP6g7+FRuuWXDVrRASW7D6c=
+
+Name: res/drawable/ic_lock_lockdown.xml
+SHA1-Digest: OUuiBH2zPkN324odo0l7k3mVFHM=
+
+Name: res/drawable/ic_lock_onthego.xml
+SHA1-Digest: Rjn9J4xIwaT7if6RYo7bRNDPgPQ=
+
+Name: res/drawable/ic_lock_power_off.xml
+SHA1-Digest: avIjXchthCfDrCOrDqy85tXUhVU=
+
+Name: res/drawable/ic_lock_screenrecord.xml
+SHA1-Digest: oiuKhvYojU3W2wekMDm5RevX7Kc=
+
+Name: res/drawable/ic_menu_end_conversation.xml
+SHA1-Digest: t7PRG7goKDNzo7p4kYvquoqXSeY=
+
+Name: res/drawable/ic_menu_moreoverflow_material.xml
+SHA1-Digest: STb5oB7kkRkjICBQiV8xx1PKfKU=
+
+Name: res/drawable/ic_menu_refresh.xml
+SHA1-Digest: 07/XMnpl/wv6h8bUaFqV8tK/cQs=
+
+Name: res/drawable/ic_menu_search_material.xml
+SHA1-Digest: jjy29e7BUQHZJgdVWFs1Lzknbm0=
+
+Name: res/drawable/ic_mic_26dp.xml
+SHA1-Digest: kyseARyGj0Etw+SkEeCnH5yx8B8=
+
+Name: res/drawable/ic_perm_device_info.xml
+SHA1-Digest: UKZCnOzuGG2GW++Brusps1iXsdo=
+
+Name: res/drawable/ic_phone.xml
+SHA1-Digest: inh1muhAhc9ucUFTqJvNzaCpNV0=
+
+Name: res/drawable/ic_qs_airplane.xml
+SHA1-Digest: 37ol6AWiE8/P0LgQEbEtsGJR++U=
+
+Name: res/drawable/ic_qs_alarm.xml
+SHA1-Digest: sQ1Jae70svNIr6EsGJof9dH0UmA=
+
+Name: res/drawable/ic_qs_auto_rotate.xml
+SHA1-Digest: iZ0A38UoqeGm9toUPK04mvF/JmE=
+
+Name: res/drawable/ic_qs_battery_saver.xml
+SHA1-Digest: cxBSCBPkFcnEw7es9aO8wK1S8jM=
+
+Name: res/drawable/ic_qs_bluetooth.xml
+SHA1-Digest: cf52zxIYbZUx22DsGqCaJQH+Bdc=
+
+Name: res/drawable/ic_qs_dnd.xml
+SHA1-Digest: eeyK7yvsfX/oLu3pQRqWoTogqqE=
+
+Name: res/drawable/ic_qs_flashlight.xml
+SHA1-Digest: NW4J+EzryP93DLN71hOlVw/WvIY=
+
+Name: res/drawable/ic_qs_location_battery_saving.xml
+SHA1-Digest: jnXdd54fJChnbAw++jUW1zng87U=
+
+Name: res/drawable/ic_qs_location_high_accuracy.xml
+SHA1-Digest: SpBA1Ge/+EuJuwFWJVBOWHGHL9s=
+
+Name: res/drawable/ic_qs_location_sensors_only.xml
+SHA1-Digest: 9+MhvTWm4BY6Q8Jn6RaKVlVDG2g=
+
+Name: res/drawable/ic_qs_nfc.xml
+SHA1-Digest: 2R+B6Lyd25ALUFVvbOp6QLnvOzo=
+
+Name: res/drawable/ic_qs_night_display_on.xml
+SHA1-Digest: CUGDzlpxuXwTXmu7hB00bhSAkIs=
+
+Name: res/drawable/ic_qs_ui_mode_night.xml
+SHA1-Digest: NJgNMKoE4wykOGion16neXEMeQs=
+
+Name: res/drawable/ic_refresh.xml
+SHA1-Digest: BItktzrs7FN1gxwyGaCs4vfcGyU=
+
+Name: res/drawable/ic_restart.xml
+SHA1-Digest: 07/XMnpl/wv6h8bUaFqV8tK/cQs=
+
+Name: res/drawable/ic_schedule.xml
+SHA1-Digest: 4Evho2zYZu/l2baGwkEWpW2gYjk=
+
+Name: res/drawable/ic_screenshot.xml
+SHA1-Digest: 49+d52DdvSSHj3nd2ygy27anNdc=
+
+Name: res/drawable/ic_search_api_material.xml
+SHA1-Digest: jjy29e7BUQHZJgdVWFs1Lzknbm0=
+
+Name: res/drawable/ic_signal_airplane.xml
+SHA1-Digest: WcqlTIB7KlNWAU1pHboRVBK5dnQ=
+
+Name: res/drawable/ic_signal_cellular_0_4_bar.xml
+SHA1-Digest: Wyg39yFWSEU+rtAtV7pgrkRLvj8=
+
+Name: res/drawable/ic_signal_cellular_0_5_bar.xml
+SHA1-Digest: sZ98Y2uItjCSJ9MihGCeYPlVoQs=
+
+Name: res/drawable/ic_signal_cellular_1_4_bar.xml
+SHA1-Digest: YVGRC+sJz+L+hUWvrEwcVxmzIFM=
+
+Name: res/drawable/ic_signal_cellular_1_5_bar.xml
+SHA1-Digest: RNLdOci1OzRCOGcPalAw+tZyHCg=
+
+Name: res/drawable/ic_signal_cellular_2_4_bar.xml
+SHA1-Digest: rQgD12n5zONwjbx91VC0AOc4K90=
+
+Name: res/drawable/ic_signal_cellular_2_5_bar.xml
+SHA1-Digest: AT+OV0faRfKAdYGFCtowaHLPxOA=
+
+Name: res/drawable/ic_signal_cellular_3_4_bar.xml
+SHA1-Digest: OWzoh3rRxqeZLkndEqd3QKThwcc=
+
+Name: res/drawable/ic_signal_cellular_3_5_bar.xml
+SHA1-Digest: Kgt+j3ILQo5cQBP89wcLmsLZh2o=
+
+Name: res/drawable/ic_signal_cellular_4_4_bar.xml
+SHA1-Digest: ymo+cFjN2HZkqXzLdt7mUofmei8=
+
+Name: res/drawable/ic_signal_cellular_4_5_bar.xml
+SHA1-Digest: cmb7Bv/RPpKSsEFsGJdoooQMlrs=
+
+Name: res/drawable/ic_signal_cellular_5_5_bar.xml
+SHA1-Digest: dOHf4jfGtsjtR1k5RQhAcTMbHvs=
+
+Name: res/drawable/ic_signal_flashlight.xml
+SHA1-Digest: NUT5KuAHETtQ3x/0XmgOc4jhTpg=
+
+Name: res/drawable/ic_volume_accessibility.xml
+SHA1-Digest: kEWBCmg79e3PJI0HQb6ZiBHOCTo=
+
+Name: res/drawable/ic_volume_alarm.xml
+SHA1-Digest: CBRBepyE2gZ8lEP8HN1AcT/w0JQ=
+
+Name: res/drawable/ic_volume_alarm_mute.xml
+SHA1-Digest: w8dJP+6w0XDfG4lNlt6FInfwU0o=
+
+Name: res/drawable/ic_volume_bt_sco.xml
+SHA1-Digest: yrHWLHSSSgbkFpwk9VAF5JloLrQ=
+
+Name: res/drawable/ic_volume_media.xml
+SHA1-Digest: jd1e2F7yO9oiKNeuLKJOqNrvezI=
+
+Name: res/drawable/ic_volume_media_bt.xml
+SHA1-Digest: b8MbfmLKpwlXDb7kDTxKXBDD0zs=
+
+Name: res/drawable/ic_volume_media_bt_mute.xml
+SHA1-Digest: hohIAXiQxKrqyAV6gEEUk6qi+Dg=
+
+Name: res/drawable/ic_volume_media_mute.xml
+SHA1-Digest: UX6O1xGYm/Irs1mzyVyq4V8SAFo=
+
+Name: res/drawable/ic_volume_notification.xml
+SHA1-Digest: 3sxtyw25wBC6NzLDXrJJBRq/9Q0=
+
+Name: res/drawable/ic_volume_notification_mute.xml
+SHA1-Digest: isDWGcpXMZF3yKFh+oAeMO9y1tU=
+
+Name: res/drawable/ic_volume_remote.xml
+SHA1-Digest: QuJwhX6VCWV0FK2p3kOt1lXjqdQ=
+
+Name: res/drawable/ic_volume_remote_mute.xml
+SHA1-Digest: fMfUBaO1JSRI/kdiU0XWlDdind0=
+
+Name: res/drawable/ic_volume_ringer.xml
+SHA1-Digest: PFQQBf/U/mwdPpJuXRlNmTfNJb0=
+
+Name: res/drawable/ic_volume_ringer_mute.xml
+SHA1-Digest: 3PjRAL4bmL4q68BPeQld7MgPuNE=
+
+Name: res/drawable/ic_volume_ringer_vibrate.xml
+SHA1-Digest: Bp6IGzw0ZBUZgxfdK+F5DtQ5E4Y=
+
+Name: res/drawable/ic_wifi_4_signal_0.xml
+SHA1-Digest: 9xBQZ+QV0O2lN6BrYXWtMc72cyE=
+
+Name: res/drawable/ic_wifi_4_signal_1.xml
+SHA1-Digest: Iy51rz3BEn5JUVI3So4OgWCzous=
+
+Name: res/drawable/ic_wifi_4_signal_2.xml
+SHA1-Digest: xnUkEnvk3EWnVLwu3ZGla82JxMg=
+
+Name: res/drawable/ic_wifi_4_signal_3.xml
+SHA1-Digest: aebmOB3DuiSMTIVWO5IkVNRXVR8=
+
+Name: res/drawable/ic_wifi_4_signal_4.xml
+SHA1-Digest: /NY8jGcVHYx0Q93cxK1pG7hkjv0=
+
+Name: res/drawable/ic_wifi_5_signal_0.xml
+SHA1-Digest: 9xBQZ+QV0O2lN6BrYXWtMc72cyE=
+
+Name: res/drawable/ic_wifi_5_signal_1.xml
+SHA1-Digest: Iy51rz3BEn5JUVI3So4OgWCzous=
+
+Name: res/drawable/ic_wifi_5_signal_2.xml
+SHA1-Digest: xnUkEnvk3EWnVLwu3ZGla82JxMg=
+
+Name: res/drawable/ic_wifi_5_signal_3.xml
+SHA1-Digest: aebmOB3DuiSMTIVWO5IkVNRXVR8=
+
+Name: res/drawable/ic_wifi_5_signal_4.xml
+SHA1-Digest: /NY8jGcVHYx0Q93cxK1pG7hkjv0=
+
+Name: res/drawable/ic_wifi_6_signal_0.xml
+SHA1-Digest: 9xBQZ+QV0O2lN6BrYXWtMc72cyE=
+
+Name: res/drawable/ic_wifi_6_signal_1.xml
+SHA1-Digest: Iy51rz3BEn5JUVI3So4OgWCzous=
+
+Name: res/drawable/ic_wifi_6_signal_2.xml
+SHA1-Digest: xnUkEnvk3EWnVLwu3ZGla82JxMg=
+
+Name: res/drawable/ic_wifi_6_signal_3.xml
+SHA1-Digest: aebmOB3DuiSMTIVWO5IkVNRXVR8=
+
+Name: res/drawable/ic_wifi_6_signal_4.xml
+SHA1-Digest: /NY8jGcVHYx0Q93cxK1pG7hkjv0=
+
+Name: res/drawable/ic_wifi_signal_0.xml
+SHA1-Digest: 9xBQZ+QV0O2lN6BrYXWtMc72cyE=
+
+Name: res/drawable/ic_wifi_signal_1.xml
+SHA1-Digest: Iy51rz3BEn5JUVI3So4OgWCzous=
+
+Name: res/drawable/ic_wifi_signal_2.xml
+SHA1-Digest: xnUkEnvk3EWnVLwu3ZGla82JxMg=
+
+Name: res/drawable/ic_wifi_signal_3.xml
+SHA1-Digest: aebmOB3DuiSMTIVWO5IkVNRXVR8=
+
+Name: res/drawable/ic_wifi_signal_4.xml
+SHA1-Digest: /NY8jGcVHYx0Q93cxK1pG7hkjv0=
+
+Name: res/drawable/perm_group_activity_recognition.xml
+SHA1-Digest: 77A3YMEouixhUBhsOLkvLTLiQLc=
+
+Name: res/drawable/perm_group_aural.xml
+SHA1-Digest: YVs3RumsQ1VzWFipWualZcwJmjU=
+
+Name: res/drawable/perm_group_calendar.xml
+SHA1-Digest: 7PLidX3Sd1IU0OwvWPF3FvWxgjA=
+
+Name: res/drawable/perm_group_call_log.xml
+SHA1-Digest: eWaRpy70liVYeLOuX+neIFKTmmA=
+
+Name: res/drawable/perm_group_camera.xml
+SHA1-Digest: kqUQKBOSCrbRmrbTqUVeqLjZqF4=
+
+Name: res/drawable/perm_group_contacts.xml
+SHA1-Digest: JRZ6cIHNr3UPL8aHjJxYpBU5Pc8=
+
+Name: res/drawable/perm_group_location.xml
+SHA1-Digest: lK0hJNYm7Y1OuYsO47SYhrleOfo=
+
+Name: res/drawable/perm_group_microphone.xml
+SHA1-Digest: WrklW3uv7c3BEOI7lcpHp9Oif0s=
+
+Name: res/drawable/perm_group_phone_calls.xml
+SHA1-Digest: aKCTLIOH7/+K1Ohnkgv5QuOpIEs=
+
+Name: res/drawable/perm_group_sensors.xml
+SHA1-Digest: PBnIqTVd1rT+vHq/uesGJ3w21Us=
+
+Name: res/drawable/perm_group_sms.xml
+SHA1-Digest: 4W79vkhSKJSYdMkccnkdsSyuYEg=
+
+Name: res/drawable/perm_group_storage.xml
+SHA1-Digest: WP95/GDiBg4n//PmMQ0++qRLBho=
+
+Name: res/drawable/perm_group_visual.xml
+SHA1-Digest: LWpEii+pC7kYY+yxqIrWeD8sJH4=
+
+Name: res/drawable/stat_sys_location.xml
+SHA1-Digest: 9+MhvTWm4BY6Q8Jn6RaKVlVDG2g=
+
+Name: res/drawable/stat_sys_nfc.xml
+SHA1-Digest: 2R+B6Lyd25ALUFVvbOp6QLnvOzo=
+
+Name: res/drawable/stat_sys_speakerphone.xml
+SHA1-Digest: rDwLbGcz8peBBkViMID/TZWEObo=
+
+Name: resources.arsc
+SHA1-Digest: hTW6ZsEjQxN3GVBDmrmGQWxYkH8=
+

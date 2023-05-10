@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: MmVjqdxGPx7NYwrYY2l1u6zotTE=
+
+Name: res/drawable/ic_sysbar_back.xml
+SHA1-Digest: RLlrotPZ1Et9cUNiNYJyTHFIboM=
+
+Name: res/drawable/ic_sysbar_home.xml
+SHA1-Digest: D5ev/8CsWtKJY6LqmbDchr6fvG0=
+
+Name: res/drawable/ic_sysbar_recent.xml
+SHA1-Digest: /4+3942ZdVg59jBmfVx76zluKy0=
+
+Name: resources.arsc
+SHA1-Digest: oIzg1TNi7SGwnw+T1b9MbpuRRSc=
+

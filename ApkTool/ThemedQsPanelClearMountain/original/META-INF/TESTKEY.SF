@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: L83GNTtz8Wyesxby3x1bsKlrF8w=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: maB8hTfmPOtS4Z6CFcbGbKhddnE=
+
+Name: res/drawable/ic_qs_circle.xml
+SHA1-Digest: Mim0j6mwJOBVGKADH+KYieCPAA8=
+
+Name: res/drawable/qs_tile_background_shape.xml
+SHA1-Digest: M8/wWp4EsT8zX+NEPMDbzZoCky0=
+
+Name: res/drawable/themed_qspanel.xml
+SHA1-Digest: IuMyNRPDuPi3nNE7W1SJ9aEBHvA=
+
+Name: resources.arsc
+SHA1-Digest: 7iMQxmuMNF9gm0k8cOyxvthFi94=
+

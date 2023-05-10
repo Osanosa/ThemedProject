@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: XvjI8Cc+2vxd1cODBEBA/U9gGss=
+
+Name: res/drawable/ic_brightness_left.xml
+SHA1-Digest: veql9P3XZhYpGZZeFlV66B2N/Bc=
+
+Name: res/drawable/ic_brightness_right.xml
+SHA1-Digest: 0nY0BkoiI+VL1nLWy4DiLf+YL3I=
+
+Name: res/drawable/ic_brightness_thumb.xml
+SHA1-Digest: NCyP0arZW8SRk8+jQt3wD9ImPM4=
+
+Name: res/drawable/ic_qs_brightness_auto_off.xml
+SHA1-Digest: jP0PTfbsrg26TvNwqgiox85pf0g=
+
+Name: res/drawable/ic_qs_brightness_auto_on.xml
+SHA1-Digest: Tp6bmGrjV29cKP35FtNUua0GqkM=
+
+Name: res/drawable/ic_qs_circle.xml
+SHA1-Digest: DcFQ6GZ9GwyhQE3I6VK9engnnHs=
+
+Name: resources.arsc
+SHA1-Digest: f3DBw7vb9DCfI3U3Yw/pVtsbKE8=
+

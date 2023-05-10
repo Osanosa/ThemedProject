@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_qs_circle" id="0x7f020000" />
+    <public type="bool" name="config_enable_qs_tile_tinting" id="0x7f030000" />
+    <public type="bool" name="config_useMaskForQs" id="0x7f030001" />
+    <public type="color" name="qs_tiles_active_tint" id="0x7f040000" />
+    <public type="color" name="qs_tiles_background_active_tint" id="0x7f040001" />
+</resources>
