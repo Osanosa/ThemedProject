@@ -1,35 +1,35 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android)
-SHA1-Digest-Manifest: l9mr0FqMvyg2uwZAwBkNei1r2Eo=
+SHA1-Digest-Manifest: qqj4uRI/ltvqq5blAXHInAM/12k=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
-SHA1-Digest: LYmQ7VAzCpgYxKfWW2fBR1u/3y4=
+SHA1-Digest: 9q8v3K31c4m5qweGRfmwd+ve4mw=
 
 Name: res/drawable/ic_brightness_left.xml
-SHA1-Digest: ztTUaeiY2kApTZtq+mHQoJvCxRA=
+SHA1-Digest: ylRTggFEzOSsvQxKGB5ucPV8K38=
 
 Name: res/drawable/ic_brightness_right.xml
-SHA1-Digest: SiaFJn1SxGD516PfRY81/1A7T6w=
+SHA1-Digest: GyAU4mBQCQPCG42OoPyEIKO8ESQ=
 
 Name: res/drawable/ic_brightness_thumb.xml
-SHA1-Digest: ZKljND+aWnxnN7UyEWwLw7axGo4=
+SHA1-Digest: yA+8MvnHQZEx//FkThGn9oHTL4w=
 
 Name: res/drawable/ic_qs_brightness_auto_off.xml
-SHA1-Digest: 7f5L0xQdsiuasmR+NnYvGxb/MF8=
+SHA1-Digest: jSSLV4Itbgo811KRMaYWjh8qWQI=
 
 Name: res/drawable/ic_qs_brightness_auto_on.xml
-SHA1-Digest: TWWm1J/jewwodIkrBAUwnmY6Eqs=
+SHA1-Digest: HqvTs9fy39FsJSQZo6E3csajak0=
 
 Name: res/drawable/ic_qs_circle.xml
-SHA1-Digest: 0+laXkQXBtTuXf8L75rkYFjhU60=
+SHA1-Digest: 2fs32BDn9zp3hazOp5u2rgLSZu4=
 
 Name: res/drawable/qs_tile_background_shape.xml
-SHA1-Digest: pweJZ2IAPNlDUivqGLTB+ZZmqdA=
+SHA1-Digest: IrIWVoK0mv07szeOkiJ6Y4JjqyE=
 
 Name: res/drawable/themed_qspanel.xml
-SHA1-Digest: IuMyNRPDuPi3nNE7W1SJ9aEBHvA=
+SHA1-Digest: 3DH79l3bkbch6hV5k4CsMw81Ndc=
 
 Name: resources.arsc
-SHA1-Digest: aGNI54L/1E8EtIXQmj774m0SnKg=
+SHA1-Digest: QTKJAUPg/cnYhw3HD4ZkVeyLamI=
 

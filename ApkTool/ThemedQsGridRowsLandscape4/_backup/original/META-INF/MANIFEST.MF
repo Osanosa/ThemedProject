@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 
 Name: AndroidManifest.xml
-SHA1-Digest: kND39iKFtcWwAx2bmejx+/KBUZg=
+SHA1-Digest: 0CJuK5jBgwI7rMdMo5BhbDJYOMY=
 
 Name: resources.arsc
-SHA1-Digest: Q99GQg1avGvMvSdrgaG3kZHK0HQ=
+SHA1-Digest: gHczNU+ZZNVXwXNvPuyuQyFf/JI=
 

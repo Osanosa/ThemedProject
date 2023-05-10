@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shape android:shape="rectangle"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <stroke android:width="0.0dip" android:color="#00000000" />
-    <corners android:radius="@android:dimen/notification_progress_bar_height" />
-    <solid android:color="#00000000" />
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke android:width="0.0dip" android:color="#00000000"/>
+    <corners android:radius="@android:dimen/notification_progress_bar_height"/>
+    <solid android:color="#00000000"/>
 </shape>

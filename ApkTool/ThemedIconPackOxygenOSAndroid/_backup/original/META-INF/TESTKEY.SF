@@ -1,242 +1,242 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android)
-SHA1-Digest-Manifest: Zf5bez9xdCHRiEuTnrh+JjEhL/o=
+SHA1-Digest-Manifest: hIMlWDqnBzLcW1UtnpZzj2vjha8=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
-SHA1-Digest: 5SWVpd93hFdH70hpEJ3SnJ6i0Cc=
+SHA1-Digest: w6wgoQh/Yow2MMr5J9ftNe1SIfY=
 
 Name: res/anim/ic_signal_wifi_transient_animation_0.xml
-SHA1-Digest: HwvmNftDNqKZU5qXEYDK671own0=
+SHA1-Digest: 83N/fHz5owfPIIbRVIm0jU2Fobs=
 
 Name: res/anim/ic_signal_wifi_transient_animation_1.xml
-SHA1-Digest: scizVQvxSGUbtGt/3yX4xaZq4g4=
+SHA1-Digest: wtKomaVpLbh2qTKYk6qyvfkfGaQ=
 
 Name: res/color/switch_track_material.xml
-SHA1-Digest: eLb0pzp8jS2steAhsr2+AFSvBdU=
+SHA1-Digest: cHtFD/OkZKzSEFbTqnVBgs40sfY=
 
 Name: res/drawable/ic_ab_back_material.xml
-SHA1-Digest: UPhVhk7GIK2ptwZfb62PBAcH244=
+SHA1-Digest: X08Q/kwZs7jcJ1HROfUTBNVLbi0=
 
 Name: res/drawable/ic_audio_alarm.xml
-SHA1-Digest: IMz4EGuBr/gL1RO70WzNyOWq1dY=
+SHA1-Digest: vLNe7/mTHsNwrgU4tDLZO9wm3F8=
 
 Name: res/drawable/ic_audio_alarm_mute.xml
-SHA1-Digest: +knyTO/JGeL2FgSJr6b+WwI0/wo=
+SHA1-Digest: p9g+dyeDcb25Ute3icsYxafYuI4=
 
 Name: res/drawable/ic_audio_ring_notif_mute.xml
-SHA1-Digest: k94omohpfB/A+BE3Dqvsl4Zxo3E=
+SHA1-Digest: uHeIpTSPgXfM3CiANLD+UOw/vQQ=
 
 Name: res/drawable/ic_battery_80_24dp.xml
-SHA1-Digest: D5ZATiummpwzYtw3J3Uio2VaaQI=
+SHA1-Digest: p968N5vWys2qyWFpk/A3ceXbL58=
 
 Name: res/drawable/ic_bluetooth_share_icon.xml
-SHA1-Digest: f8Z+xKCLq4fErhzhmQL/Ft4v8vE=
+SHA1-Digest: x/J6NVGIZkx+qY4pQRQrZvaOgV4=
 
 Name: res/drawable/ic_bluetooth_transient_animation.xml
-SHA1-Digest: SVbLllvyAoLF31OJlHkr6TBW2/Y=
+SHA1-Digest: 3EVSix8yiGDzoYONQRUZK/eiJHE=
 
 Name: res/drawable/ic_bluetooth_transient_animation_drawable.xml
-SHA1-Digest: cNChXMFY1u6j+KHzCB/dhRD0lfk=
+SHA1-Digest: G9l9Mtyt7qIU8KCmFq5Ed5ajihg=
 
 Name: res/drawable/ic_bt_headphones_a2dp.xml
-SHA1-Digest: cxiDugxp/00OyQJyBoa7u+wNmiU=
+SHA1-Digest: gejOG0sEfM5r4oY1GaYpPov6a5U=
 
 Name: res/drawable/ic_bt_headset_hfp.xml
-SHA1-Digest: Qitpz2sCD8DnybFW4mV5wYZU3O0=
+SHA1-Digest: UeYjgYKGP2x2OCQ0G6D5pH1YW04=
 
 Name: res/drawable/ic_bt_hearing_aid.xml
-SHA1-Digest: mM2mpNZdYfDEAz5ul6JKx8XKD1U=
+SHA1-Digest: +bFnzOb6qKiQqRTNIh2qhQynJgI=
 
 Name: res/drawable/ic_bt_laptop.xml
-SHA1-Digest: v//THGAuzPx9cR5SZKZjANYYJfc=
+SHA1-Digest: 7mDLcVv5uH9WlmfgJcnvlBcBliM=
 
 Name: res/drawable/ic_bt_misc_hid.xml
-SHA1-Digest: fqYiN/pwacDy/xSfBUPKTyy+Ayk=
+SHA1-Digest: i3yqxu1SJSBErc+1YrC7iewC0AY=
 
 Name: res/drawable/ic_bt_network_pan.xml
-SHA1-Digest: 1nJ2njrIbDKcCEueOdcnl30bYMY=
+SHA1-Digest: Yf2YHBy/HZuKlAQap+oyRUMmKM8=
 
 Name: res/drawable/ic_bt_pointing_hid.xml
-SHA1-Digest: 0tu62XkeYBaWN5Ki5w1kloN6/W8=
+SHA1-Digest: bbUCGyQNNYSUjgj+xkDzqk9j9mA=
 
 Name: res/drawable/ic_corp_badge.xml
-SHA1-Digest: THC8YD1U+6FzGm2M023CokAQkGc=
+SHA1-Digest: 7DlnXNrivSXnVTMKl0+q6cQPahA=
 
 Name: res/drawable/ic_expand_more.xml
-SHA1-Digest: Z2otd84CrFyyis7HWXQyDR9f3zI=
+SHA1-Digest: fKdSXn5pfYN266fIKeWZMsuTUEU=
 
 Name: res/drawable/ic_faster_emergency.xml
-SHA1-Digest: K7RNL0trwn+G4C/DUe99GASXY+U=
+SHA1-Digest: kgGeRe0kqsyw8ozLiOb5XBjiiHs=
 
 Name: res/drawable/ic_file_copy.xml
-SHA1-Digest: B73T5oNSHgOqpoVtc3qCXBu6nlw=
+SHA1-Digest: hWuVwh1vgKf84j4YBkJL+TZTxfg=
 
 Name: res/drawable/ic_hotspot_transient_animation.xml
-SHA1-Digest: SIfOqI+6g/S2Bxvguyq+u+6xi2o=
+SHA1-Digest: /+HIEsxLyiau5EZU7tRgqZsO+VE=
 
 Name: res/drawable/ic_hotspot_transient_animation_drawable.xml
-SHA1-Digest: O2JJPEuIgNASYfjwD7egpDasa9Q=
+SHA1-Digest: 4Z6tMqqYSiR34pObVi2SQAaKidk=
 
 Name: res/drawable/ic_info_outline_24.xml
-SHA1-Digest: 5NNrCLTJmmopi7Q1IUhk7qNKqjU=
+SHA1-Digest: D8lUo2qkHTTytmj4iSlXrMXMh74=
 
 Name: res/drawable/ic_lock.xml
-SHA1-Digest: FGFOjriOCPGSq23p2U2JHelTq7I=
+SHA1-Digest: Zn26ZcQyK75RPmmIv8UCddxvMTE=
 
 Name: res/drawable/ic_lock_bugreport.xml
-SHA1-Digest: xtyfUvlO48Csjd8w4jabS7bODv0=
+SHA1-Digest: nxKVux5nzcfn5G/dEdzmOhaBW6o=
 
 Name: res/drawable/ic_lock_open.xml
-SHA1-Digest: 7h6jokrFIeCun69HJ6tAddlRTUg=
+SHA1-Digest: h32XAcV1ghbD+Fuvfyd7QXg5bgA=
 
 Name: res/drawable/ic_lock_power_off.xml
-SHA1-Digest: 6tlZKucJqzPRr8iNDwV3+25aKAw=
+SHA1-Digest: KpQpM9IQoHf1pz7Pq4At9ZMhUlU=
 
 Name: res/drawable/ic_lockscreen_ime.xml
-SHA1-Digest: bu3+mbreE+LulZJf3l7tYmhAv+8=
+SHA1-Digest: /0MgpeK+eY7cbU+hwQCzvoJ4480=
 
 Name: res/drawable/ic_mode_edit.xml
-SHA1-Digest: +Q9WkWPhVwcRSW49X5do/vyY+Vc=
+SHA1-Digest: jdoLjLIDlhnt8FmE3a1/IJL3lkQ=
 
 Name: res/drawable/ic_notifications_alerted.xml
-SHA1-Digest: KAC+/E6p1amEP2AtvX0hEjoSuYA=
+SHA1-Digest: 6YDAwBKjtzXOsKflm1/vL2NXGaE=
 
 Name: res/drawable/ic_phone.xml
-SHA1-Digest: 6qEmwAIrP6boF92jU38mgvkLDW0=
+SHA1-Digest: EYvx7VVJBO87SgKrEZW7mTyq9xg=
 
 Name: res/drawable/ic_qs_airplane.xml
-SHA1-Digest: w/tJCTWja8QWxO63hILS0FsuQss=
+SHA1-Digest: AartUAscSqiLtABKGLnej5LGr+c=
 
 Name: res/drawable/ic_qs_auto_rotate.xml
-SHA1-Digest: F2TJiF9SwwlhyqBwdDqSu2e+9/4=
+SHA1-Digest: +0WziJJATRs4Ldo31wv2RgZD79A=
 
 Name: res/drawable/ic_qs_battery_saver.xml
-SHA1-Digest: +OzhyJ3rZBolI54lGxC/AoWpePs=
+SHA1-Digest: IVEvTsqmcn2wqVpKVEbCWYav2lI=
 
 Name: res/drawable/ic_qs_bluetooth.xml
-SHA1-Digest: mQ1vRYyfiy1Gi3GgRsHCTWUEgRY=
+SHA1-Digest: JaUIh4vGCZLcxVYVIbCfbDknU9w=
 
 Name: res/drawable/ic_qs_dnd.xml
-SHA1-Digest: aj2lzDYVDiqcwNxzmDL87nKW7Fo=
+SHA1-Digest: JzLrVsyJTLFhFLt79aLqCXZcO2Y=
 
 Name: res/drawable/ic_qs_flashlight.xml
-SHA1-Digest: ZaKUGo+U51sGA/RW2rVjduwCfDM=
+SHA1-Digest: oHeln2jQ6lqRqZxbNyar+h1p9CY=
 
 Name: res/drawable/ic_qs_night_display_on.xml
-SHA1-Digest: GA/KTWmdTs316eCzP9zqSh0OfWA=
+SHA1-Digest: olBG7WXdjC+AE1zjDV14YIbOI5Y=
 
 Name: res/drawable/ic_qs_ui_mode_night.xml
-SHA1-Digest: edYpQ/ofO/KWRpp5UJTPWwpAReE=
+SHA1-Digest: 013UCSoFER7QDRC1KTOn5SrbdOA=
 
 Name: res/drawable/ic_restart.xml
-SHA1-Digest: oylkyGYO4oT8+vMBsX/jxW4X2b8=
+SHA1-Digest: CEBA2rcBVCVYAcaPrtKuzzhuiKY=
 
 Name: res/drawable/ic_screenshot.xml
-SHA1-Digest: Be5AYJIdSp7vI2H5+ttt49SNplM=
+SHA1-Digest: S14jB+23yc+bKSxB95tnh0sov1U=
 
 Name: res/drawable/ic_settings_bluetooth.xml
-SHA1-Digest: tphV2J6rPIQKc23hfYEAtpTft/A=
+SHA1-Digest: m9VrETVcpGBkTt3GlS653B0KpL4=
 
 Name: res/drawable/ic_signal_cellular_0_4_bar.xml
-SHA1-Digest: iJ7wp3NWt3c6xBt3AOpPLW1BY18=
+SHA1-Digest: 4aKKKcpKTlG9H0urW3lTngc2atI=
 
 Name: res/drawable/ic_signal_cellular_0_5_bar.xml
-SHA1-Digest: YoogBDAPB+HqeYSjAvMF+s2x5rk=
+SHA1-Digest: AVt1FAr77UIfqP8i0ABpHvSHMdE=
 
 Name: res/drawable/ic_signal_cellular_1_4_bar.xml
-SHA1-Digest: nghr5fxE36Lf2oAiGUjAWuzclC8=
+SHA1-Digest: wq/ude38K6J+mRFGJEfLnm56/1k=
 
 Name: res/drawable/ic_signal_cellular_1_5_bar.xml
-SHA1-Digest: Vl4BCBqiYm0WK5NqXq17IcOkYe0=
+SHA1-Digest: z1L2Vb30CnpdsEF6M/11iUjIRGw=
 
 Name: res/drawable/ic_signal_cellular_2_4_bar.xml
-SHA1-Digest: ZNdkWbtZy6/Bs4doZU8kpm0icK4=
+SHA1-Digest: HfUHR2KGSew/Fmg5P2lO7sx9o28=
 
 Name: res/drawable/ic_signal_cellular_2_5_bar.xml
-SHA1-Digest: uk+xMs5GQGQK6PS7WAWZ4YCmwsE=
+SHA1-Digest: W03Jq9Kb3mFXRhN/3cEzLBzmt8Q=
 
 Name: res/drawable/ic_signal_cellular_3_4_bar.xml
-SHA1-Digest: g0WHP2Ah9VL/Mpy6yYHx1IO58uA=
+SHA1-Digest: SUPLif7YZSON/eWIToZljo3CYE0=
 
 Name: res/drawable/ic_signal_cellular_3_5_bar.xml
-SHA1-Digest: OX5vDx2BCTo8pRzjUMulQQigllA=
+SHA1-Digest: zb++nc1qBm3IdJ57Uobn/LGfU60=
 
 Name: res/drawable/ic_signal_cellular_4_4_bar.xml
-SHA1-Digest: 0uFIEIWmPvyvVOlXAHKIFvMYStA=
+SHA1-Digest: Ub1/0y+AzuW/O5PZd9gu6o+KWgA=
 
 Name: res/drawable/ic_signal_cellular_4_5_bar.xml
-SHA1-Digest: KaazveI64y5i2qbTdgvrSpcB0vc=
+SHA1-Digest: 409eV/S/kBHy+UNqgsn79r8XKVs=
 
 Name: res/drawable/ic_signal_cellular_5_5_bar.xml
-SHA1-Digest: cAtDl40Ve+r8XnUCOAKeQdGIjWA=
+SHA1-Digest: n5As+g8N4aFIiH3mgJCxzYezWdc=
 
 Name: res/drawable/ic_signal_location.xml
-SHA1-Digest: 0HuGUCJqDwIdQe2nxrls+bimfDk=
+SHA1-Digest: ukZVAf+BmCesopmFGYlqqhL6ask=
 
 Name: res/drawable/ic_signal_wifi_transient_animation.xml
-SHA1-Digest: d074kS9aQA7rBY43lifvmNSh/VY=
+SHA1-Digest: jCJhC2H91ETXygkFOhBYTfM1V3I=
 
 Name: res/drawable/ic_signal_wifi_transient_animation_drawable.xml
-SHA1-Digest: oeS/03WhbXqY5j13KPCd+4rQ8Ww=
+SHA1-Digest: Ay9BqCyJ2mTcIr+RCmYgkwz1Lx0=
 
 Name: res/drawable/ic_wifi_signal_0.xml
-SHA1-Digest: fDz6oeuTVoG2Uk8/TvyuEznBneU=
+SHA1-Digest: VUY4f6EB4Q8PWCx1P0eeTavsCrQ=
 
 Name: res/drawable/ic_wifi_signal_1.xml
-SHA1-Digest: rcv6MPUGacIpJpWvIOciCYv29z0=
+SHA1-Digest: Y+buGgu3vd8jEwCeVIwSGhzHB8c=
 
 Name: res/drawable/ic_wifi_signal_2.xml
-SHA1-Digest: c3clLL7pRu2ABNhNDDwlYDC1wTw=
+SHA1-Digest: ip808F+ewZDJEYAkpU2eKzjlidc=
 
 Name: res/drawable/ic_wifi_signal_3.xml
-SHA1-Digest: FJk9mS9YofUC+gLinuJlWkdXYnU=
+SHA1-Digest: /bAWzLnnh887kEYXJmr6Co7Xg3s=
 
 Name: res/drawable/ic_wifi_signal_4.xml
-SHA1-Digest: GH4q7oa3Jd5J/fkHSxG3cmwmr4E=
+SHA1-Digest: 9EHOfdJVzj2TAGK0XnNlQXA//Nk=
 
 Name: res/drawable/perm_group_activity_recognition.xml
-SHA1-Digest: YfEMrvgh6WXJBsLWtH/ZEmK1i8Q=
+SHA1-Digest: LxrqTlevXnlalEjAxZamaQr/EQU=
 
 Name: res/drawable/perm_group_aural.xml
-SHA1-Digest: y3PvRRwk5cuA8l2grTzJfJOxajY=
+SHA1-Digest: 4UyIuq5Xx0YuMMsqmmppLUsmLRM=
 
 Name: res/drawable/perm_group_calendar.xml
-SHA1-Digest: svVkFImb9JOXUX47Vp/AZq2A6FA=
+SHA1-Digest: tLVu03cFUhfMJB/6SoAZ5h4uxFY=
 
 Name: res/drawable/perm_group_call_log.xml
-SHA1-Digest: fOO68LXxvpAF544/6E5BmZ75+Zs=
+SHA1-Digest: xkDZ26jngtivG7MhTH/W3bpOqYc=
 
 Name: res/drawable/perm_group_camera.xml
-SHA1-Digest: PoII4arwZoPbYvFq91n0vu9USXI=
+SHA1-Digest: XwCn2MAVaAm4yVkQqtWRA1Ls+t4=
 
 Name: res/drawable/perm_group_contacts.xml
-SHA1-Digest: Q0Kgd5RLvvF57NoAUP3Evlit+M0=
+SHA1-Digest: g6dyZk9recxN6XhDkmGBPMp/xr8=
 
 Name: res/drawable/perm_group_location.xml
-SHA1-Digest: 98rAyEAKceRCpw271iy19td3gEY=
+SHA1-Digest: /Y/CB4jGyZHtvX/dWT3AZ1km5hM=
 
 Name: res/drawable/perm_group_microphone.xml
-SHA1-Digest: +HnIDeeDovlp1uLcQeLmxeIJO+M=
+SHA1-Digest: 3LxKZmfyfO5s6F8Is5EeDKZLAFo=
 
 Name: res/drawable/perm_group_phone_calls.xml
-SHA1-Digest: xTtwPZZOyf4IUNqxUUfynMUboNs=
+SHA1-Digest: 3U9J0LCgQF946tRcqvNvYxE1fZQ=
 
 Name: res/drawable/perm_group_sensors.xml
-SHA1-Digest: zyAEInvDIZm2mhb5xsCih7BREYA=
+SHA1-Digest: DgdSzHFLMhwEIqrK06SFzyM5mNg=
 
 Name: res/drawable/perm_group_sms.xml
-SHA1-Digest: sSP8hyif4NVCIexsecFYJYAZe/Q=
+SHA1-Digest: ewdes8SXvi4r44iiK4N9Px3mSt8=
 
 Name: res/drawable/perm_group_storage.xml
-SHA1-Digest: UFkhkiU+gBWA4kBPVlhG/TmxI8M=
+SHA1-Digest: vW7HqDJzDsGrVl0VEllQxEQsRl8=
 
 Name: res/drawable/perm_group_visual.xml
-SHA1-Digest: mOrbekJIFliQFJJkNr4NTkgRzhc=
+SHA1-Digest: NkyF7+LKdyV6EbMSlm2LedkUAsM=
 
 Name: res/drawable/switch_track_material.xml
-SHA1-Digest: fvt7enwuS/j2azVdBsPd3SmkbbM=
+SHA1-Digest: 9Af49s0Q01lr+RBOet7ExC8e7j4=
 
 Name: resources.arsc
-SHA1-Digest: 0aPVdj+3+0aYYVx2JDHtbKz2NyU=
+SHA1-Digest: g2KZqOaY7WRWtFMmcfmOckDQJ6U=
 

@@ -1,17 +1,17 @@
 Manifest-Version: 1.0
 
 Name: AndroidManifest.xml
-SHA1-Digest: du+iotAFBmdFBWHkVRjoswIS+wc=
+SHA1-Digest: KtkzouHctFX30ELd4zKyD4NSo4o=
 
 Name: res/drawable/ic_sysbar_back.xml
-SHA1-Digest: osm8dyPymBh5OEx/v49KwGwf3Hs=
+SHA1-Digest: Qgl6dEk+vN3Mw4OIL/yfei7DLLQ=
 
 Name: res/drawable/ic_sysbar_home.xml
-SHA1-Digest: FeODiXYq1T/QOzURPAiYZFzHpcI=
+SHA1-Digest: QXAgQFC3Wpk+kXYuyfgZK/9USUg=
 
 Name: res/drawable/ic_sysbar_recent.xml
-SHA1-Digest: gXsR7Q8DM5nr012znjrb18hNNqE=
+SHA1-Digest: h788OiPTb9e0t07E9/CdmFyZh0w=
 
 Name: resources.arsc
-SHA1-Digest: WxdHzbOkOvcPU2mUF5h10MMrKP8=
+SHA1-Digest: zNYJkCLYn/tloaejjMn+it8yd4U=
 

@@ -1,26 +1,26 @@
 Manifest-Version: 1.0
 
 Name: AndroidManifest.xml
-SHA1-Digest: O8nAdmOmWjQvVLEc0rB9bBdWOQk=
+SHA1-Digest: TVgbzRHUg/XuAqlMPqeJs3pHuG4=
 
 Name: res/drawable/ic_brightness_left.xml
-SHA1-Digest: veql9P3XZhYpGZZeFlV66B2N/Bc=
+SHA1-Digest: aY1m0JmAMhaOw94i3JoRy1WA1VQ=
 
 Name: res/drawable/ic_brightness_right.xml
-SHA1-Digest: 0nY0BkoiI+VL1nLWy4DiLf+YL3I=
+SHA1-Digest: i09DWBjtRcloAhXG5BeZOYEtzUw=
 
 Name: res/drawable/ic_brightness_thumb.xml
-SHA1-Digest: NCyP0arZW8SRk8+jQt3wD9ImPM4=
+SHA1-Digest: 2SsNVx9ldjhRRLWHV/0Yg23ROPI=
 
 Name: res/drawable/ic_qs_brightness_auto_off.xml
-SHA1-Digest: jP0PTfbsrg26TvNwqgiox85pf0g=
+SHA1-Digest: 2aI3D0T6qPtqgGl7qsXAow7oBsI=
 
 Name: res/drawable/ic_qs_brightness_auto_on.xml
-SHA1-Digest: Tp6bmGrjV29cKP35FtNUua0GqkM=
+SHA1-Digest: VSujWSMs7hg4gh+cSUIb2E/oFB4=
 
 Name: res/drawable/ic_qs_circle.xml
-SHA1-Digest: CNKguyL0fOUamTJ5bRsFzIdoqxk=
+SHA1-Digest: gUsY58LoA4tL+zfJ5GIdFbtGudE=
 
 Name: resources.arsc
-SHA1-Digest: n5kZA4vZ9Rwkd6rD9FbWtj6B4ek=
+SHA1-Digest: Do502VBEqOMes74lAg1j7fqyCUg=
 

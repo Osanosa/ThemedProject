@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
 
 Name: AndroidManifest.xml
-SHA1-Digest: dYlsKfJEpy9frJ4gGKzr2QcRliA=
+SHA1-Digest: jrnC/7K+8yXY9vzy2Pj7KzHKBqo=
 
 Name: res/drawable/ic_qs_circle.xml
-SHA1-Digest: uhdnXH3QnxbuIGdfCxj1pZMevz4=
+SHA1-Digest: jFHxbiYyMc4uFXZEwTn+WN5d4ds=
 
 Name: resources.arsc
-SHA1-Digest: kzgQmrUVhLKiMTKCE/tRjNJcFpE=
+SHA1-Digest: UYV5cw01+XXFdT0rvStnfrS3ldc=
 
