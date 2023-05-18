@@ -1,0 +1,38 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: emQcegZyCA7FftmRunTnrq3jfsuQSWOZg6Z4J7/DaGc=
+X-Android-APK-Signed: 2,3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: vUckLKJw5LXX91spsLrtEYAHFSd8Ew5MYM8jpLhmv9k=
+
+Name: res/drawable/ic_4g_mobiledata.xml
+SHA-256-Digest: sy1Zxt9csnvtC3f3fOivWGQtM5676kntMmc9gXKND88=
+
+Name: res/drawable/ic_4g_plus_mobiledata.xml
+SHA-256-Digest: F9wSvVTIVde5dL+7aUNpRYFSbGEYGLbhXMlusEW/Bkk=
+
+Name: res/drawable/ic_5g_mobiledata.xml
+SHA-256-Digest: qpk3RGomtvMhdaz1NHFaJqgnt2XE3EJ+FyhJwGvASrM=
+
+Name: res/drawable/ic_lte_mobiledata.xml
+SHA-256-Digest: Dl3R7eeqQSkKptLHhrI70WXsYQZmvpv+7laFJ57igAQ=
+
+Name: res/drawable/ic_lte_plus_mobiledata.xml
+SHA-256-Digest: nqTWKZAOy/N2xhA/uDFEcwHOYyavomRHXxtv76vf534=
+
+Name: res/drawable/stat_sys_data_fully_connected_4g.xml
+SHA-256-Digest: +iHNiZwqDWEm9dbIwAVua+5dnex6ZAp4wgGZzzAHbPA=
+
+Name: res/drawable/stat_sys_data_fully_connected_4g_plus.xml
+SHA-256-Digest: 3gtQ0KcZKBih/mr2ziv3qwvcFcRkC6zK3Am6MRfFbzA=
+
+Name: res/drawable/stat_sys_data_fully_connected_lte.xml
+SHA-256-Digest: cYWD586BWj64qA22u3tav2loxK8wUsl3GMQfpICk7oE=
+
+Name: res/drawable/stat_sys_data_fully_connected_lte_plus.xml
+SHA-256-Digest: GKGOlUBlYKDF5u4knKt92TIaMq8mzWF4cgMrOd50YB8=
+
+Name: resources.arsc
+SHA-256-Digest: xlGr59QVR7vlWSdCcR4CxG44/V3D3bgO1DqyI7H+Vik=
+

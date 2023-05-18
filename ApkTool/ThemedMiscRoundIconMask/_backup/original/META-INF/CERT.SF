@@ -1,0 +1,11 @@
+Signature-Version: 1.0
+Created-By: ApkRepacker by Mr Ikso
+SHA-256-Digest-Manifest: 4V3ONvJZLeAubsHRmnOWVAiGYJd5dXoVjRpCr7YrGwo=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 40cKhHwRLM+Wr8drdRI2xvctMA6199sousjqJKlP40s=
+
+Name: resources.arsc
+SHA-256-Digest: oo5dVmKz7h453oD1Fol0HPK4TO8aOa91vE1s/Sht5LE=
+

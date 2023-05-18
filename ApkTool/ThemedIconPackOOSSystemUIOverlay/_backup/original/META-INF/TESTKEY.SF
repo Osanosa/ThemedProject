@@ -1,0 +1,158 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: g7d3DnihuDNfKiHZUUBHBz9q9wk=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: WGqJig5jtGVVbWhqw4mqNq1oZ3c=
+
+Name: res/drawable/ic_alarm.xml
+SHA1-Digest: Y4U34ThGK7t76krbA7AGsUA23HU=
+
+Name: res/drawable/ic_bluetooth_connected.xml
+SHA1-Digest: ukqbSISzHUgsUwHwevxIwQwdQr8=
+
+Name: res/drawable/ic_camera_alt_24dp.xml
+SHA1-Digest: KG5wKp/25dHSC9HxW6/RkNFfQY4=
+
+Name: res/drawable/ic_cast.xml
+SHA1-Digest: HP3Qch8jKcRE/AdVnx+uQ0sIswo=
+
+Name: res/drawable/ic_cast_connected.xml
+SHA1-Digest: 98xMNeN6UWHPgLAkwA0noUVu43M=
+
+Name: res/drawable/ic_hotspot.xml
+SHA1-Digest: 7+hKHtDYlp2JBPLji13dEpRd4iY=
+
+Name: res/drawable/ic_location.xml
+SHA1-Digest: cxZ8FRSTOLCrFVVL7idku2XnPUI=
+
+Name: res/drawable/ic_mic_26dp.xml
+SHA1-Digest: PFII8adeTek59Lhi6PN3Q6H/T90=
+
+Name: res/drawable/ic_no_disturb.xml
+SHA1-Digest: Kl54TTyhmmr94AcAqcpqKhrknOg=
+
+Name: res/drawable/ic_phone.xml
+SHA1-Digest: ZtlpCd4c+Kpl7/fqn2oTLhsijSk=
+
+Name: res/drawable/ic_qs_brightness_auto_off.xml
+SHA1-Digest: oW3n82gWXS3h5RPyp0bZAM4Um74=
+
+Name: res/drawable/ic_qs_brightness_auto_on.xml
+SHA1-Digest: WVLgOtB8+zfrUNW4S0u0Y8Aj8bQ=
+
+Name: res/drawable/ic_qs_data_switch_1.xml
+SHA1-Digest: JkMQnHzHOYNQk3l2ZAPyiapqGLE=
+
+Name: res/drawable/ic_qs_data_switch_2.xml
+SHA1-Digest: 1gSp2+LdbS/swWCC65qrl5jGmgY=
+
+Name: res/drawable/ic_qs_nfc.xml
+SHA1-Digest: R4I4hWymhQNTK8FRaShLaYtoWus=
+
+Name: res/drawable/ic_qs_no_sim.xml
+SHA1-Digest: CVTV8NDPl+rtvWp2UaZtp9fnh08=
+
+Name: res/drawable/ic_settings.xml
+SHA1-Digest: d3Emo4L6rUraB4CMb3U7hk9itlM=
+
+Name: res/drawable/ic_swap_vert.xml
+SHA1-Digest: uTQMR1XTOUU17aZDgMdjFM42/dM=
+
+Name: res/drawable/ic_volume_accessibility.xml
+SHA1-Digest: nfTLI0XBWnUzIYVAHo6inx3Zkas=
+
+Name: res/drawable/ic_volume_alarm.xml
+SHA1-Digest: 6tPT+gjN3ajY8vokc+RwgNxpkOY=
+
+Name: res/drawable/ic_volume_alarm_mute.xml
+SHA1-Digest: BoOkYvM1gAt1HIL1cIwaeULZ+78=
+
+Name: res/drawable/ic_volume_bt_sco.xml
+SHA1-Digest: Uqetr4hk8kfqLywOSP54SmE4s/k=
+
+Name: res/drawable/ic_volume_media.xml
+SHA1-Digest: P7rPee+wbfkZCeKUAL5+QRUpwKQ=
+
+Name: res/drawable/ic_volume_media_bt.xml
+SHA1-Digest: XGyjo4SHiDldG19tyCyHcb/ELzI=
+
+Name: res/drawable/ic_volume_media_bt_mute.xml
+SHA1-Digest: NhCSfj+maEYp7ZeiOhwVEb6LIig=
+
+Name: res/drawable/ic_volume_media_mute.xml
+SHA1-Digest: BTLogU57hu4Iso3UGH0rQf6q9LU=
+
+Name: res/drawable/ic_volume_odi_captions.xml
+SHA1-Digest: WNUgKCQ/RMY2Gb9hHzSwZpVVoDI=
+
+Name: res/drawable/ic_volume_odi_captions_disabled.xml
+SHA1-Digest: rYgWwK2Zb+Pz0eVlBiOYDjxZVgw=
+
+Name: res/drawable/ic_volume_ringer.xml
+SHA1-Digest: GHRD+vs61nivEqq/7r2id15ES2Q=
+
+Name: res/drawable/ic_volume_ringer_mute.xml
+SHA1-Digest: WV3mIqKlrO55aJROwKT8loDfYUs=
+
+Name: res/drawable/ic_volume_ringer_vibrate.xml
+SHA1-Digest: to5VfyrEnA2TZ6OB4Q3J0iIM7Pc=
+
+Name: res/drawable/ic_volume_system.xml
+SHA1-Digest: jOaz9V+kmGB9wTB3Paxv4JIpHz8=
+
+Name: res/drawable/ic_volume_system_mute.xml
+SHA1-Digest: 992nsZRIll67B/D7Dk6ZlBdYvIw=
+
+Name: res/drawable/ic_volume_voice.xml
+SHA1-Digest: VNr/uBlMMrixXF6F5Ga0t3H3xu4=
+
+Name: res/drawable/stat_sys_airplane_mode.xml
+SHA1-Digest: q1kpJH3bhUVDPeIm/Q0+jKHpVQY=
+
+Name: res/drawable/stat_sys_data_bluetooth_connected_battery_0.xml
+SHA1-Digest: EVjUeOwso7G1i5VkcI3KkXILQfA=
+
+Name: res/drawable/stat_sys_data_bluetooth_connected_battery_1.xml
+SHA1-Digest: pZh3qUAlvyzJocEwUu5G9CS/FuU=
+
+Name: res/drawable/stat_sys_data_bluetooth_connected_battery_2.xml
+SHA1-Digest: HInudJeX3Ed6WWwIK2XaT0DhE7E=
+
+Name: res/drawable/stat_sys_data_bluetooth_connected_battery_3.xml
+SHA1-Digest: YWPHo1tXCkobH7IeOdbE/zq7cLg=
+
+Name: res/drawable/stat_sys_data_bluetooth_connected_battery_4.xml
+SHA1-Digest: WIh0kPZwRCr0b4rdxdwaIc58yMQ=
+
+Name: res/drawable/stat_sys_data_bluetooth_connected_battery_5.xml
+SHA1-Digest: cLmGKQAvmTZ9yjsEGtZW2hUVjOc=
+
+Name: res/drawable/stat_sys_data_bluetooth_connected_battery_6.xml
+SHA1-Digest: kkg2lTRU5K4OQ3ZnmEq+YPfLuGs=
+
+Name: res/drawable/stat_sys_data_bluetooth_connected_battery_7.xml
+SHA1-Digest: 6JCW0XGtnkGMX4L22iMeIERKnIs=
+
+Name: res/drawable/stat_sys_data_bluetooth_connected_battery_8.xml
+SHA1-Digest: mrQhXssQIVGMWpfOUi4Wy1Vxy50=
+
+Name: res/drawable/stat_sys_data_bluetooth_connected_battery_9.xml
+SHA1-Digest: Z2G9UHN+OF+HCgdavwyZ4ifCJSE=
+
+Name: res/drawable/stat_sys_dnd.xml
+SHA1-Digest: e8sjYAiRCjQOZ21aF8Yg6Qf/iQY=
+
+Name: res/drawable/stat_sys_nfc.xml
+SHA1-Digest: cZJx5zG8wF59ph9oPz34jcPugfI=
+
+Name: res/drawable/stat_sys_ringer_silent.xml
+SHA1-Digest: Y8gvo8KigyZOxKYKJ3S9kfEmKz4=
+
+Name: res/drawable/stat_sys_ringer_vibrate.xml
+SHA1-Digest: DY7OsJ+McPwjjtvZYVg2HnhZCVY=
+
+Name: resources.arsc
+SHA1-Digest: HMz9JyaCCxnMDQiiim94klE1sIc=
+

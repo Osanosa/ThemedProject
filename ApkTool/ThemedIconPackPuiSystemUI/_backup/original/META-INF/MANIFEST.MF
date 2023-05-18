@@ -1,38 +1,37 @@
 Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
 
 Name: AndroidManifest.xml
-SHA1-Digest: JELJvVcOno+YdA4qzylSjnmyckY=
+SHA-256-Digest: xszGyqoD9dNXOuQPzLMvaZ5dV0cDuXt9LGpLyGK+K/g=
 
 Name: res/drawable/ic_4g_mobiledata.xml
-SHA1-Digest: VpygjRCgoUEryfehE0bCYugh/qo=
+SHA-256-Digest: IeS/9VHStF6f16aOK39tIV72ShqHKXuXDH9+4XNvcmY=
 
 Name: res/drawable/ic_4g_plus_mobiledata.xml
-SHA1-Digest: zXszFZimN4dDuXl64HvFNyrjhFs=
+SHA-256-Digest: vBLWIUFuvVzsetKQWUMUfSI9f6CNXpeacq/GaryFUEY=
 
 Name: res/drawable/ic_5g_mobiledata.xml
-SHA1-Digest: LKAuTlnA600AHVOZEuEuuAkbHOM=
+SHA-256-Digest: f4ihxPQJETU2/RlkJsDawOIa5xbGaMx8GUn1nKje5zs=
 
 Name: res/drawable/ic_lte_mobiledata.xml
-SHA1-Digest: VpygjRCgoUEryfehE0bCYugh/qo=
+SHA-256-Digest: IeS/9VHStF6f16aOK39tIV72ShqHKXuXDH9+4XNvcmY=
 
 Name: res/drawable/ic_lte_plus_mobiledata.xml
-SHA1-Digest: zXszFZimN4dDuXl64HvFNyrjhFs=
-
-Name: res/drawable/qs_background_primary.xml
-SHA1-Digest: vq4taF5lemt51hLU+Zwh8337Qr4=
+SHA-256-Digest: vBLWIUFuvVzsetKQWUMUfSI9f6CNXpeacq/GaryFUEY=
 
 Name: res/drawable/stat_sys_data_fully_connected_4g.xml
-SHA1-Digest: VpygjRCgoUEryfehE0bCYugh/qo=
+SHA-256-Digest: IeS/9VHStF6f16aOK39tIV72ShqHKXuXDH9+4XNvcmY=
 
 Name: res/drawable/stat_sys_data_fully_connected_4g_plus.xml
-SHA1-Digest: zXszFZimN4dDuXl64HvFNyrjhFs=
+SHA-256-Digest: vBLWIUFuvVzsetKQWUMUfSI9f6CNXpeacq/GaryFUEY=
 
 Name: res/drawable/stat_sys_data_fully_connected_lte.xml
-SHA1-Digest: VpygjRCgoUEryfehE0bCYugh/qo=
+SHA-256-Digest: IeS/9VHStF6f16aOK39tIV72ShqHKXuXDH9+4XNvcmY=
 
 Name: res/drawable/stat_sys_data_fully_connected_lte_plus.xml
-SHA1-Digest: zXszFZimN4dDuXl64HvFNyrjhFs=
+SHA-256-Digest: vBLWIUFuvVzsetKQWUMUfSI9f6CNXpeacq/GaryFUEY=
 
 Name: resources.arsc
-SHA1-Digest: WKJhpRqd9Esz/ScI8Ytyxi7KUlg=
+SHA-256-Digest: BZPB+feWIN5GFow+01nQrkJwCf0Nz/2xD1BenkYLw6A=
 

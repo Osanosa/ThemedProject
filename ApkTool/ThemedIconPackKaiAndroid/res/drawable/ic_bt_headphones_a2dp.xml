@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<vector android:tint="?android:colorControlNormal" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0" xmlns:android="http://schemas.android.com/apk/res/android">
-    <path android:fillColor="@android:color/white" android:pathData="M12 2c-3.12-0.07-9.5 1.19-9.5 9.5v6.25c0 1.02 0.3 1.83 0.89 2.4C4.16 20.9 5.18 21 5.65 21 8.13 21 9 19.41 9 17.75v-2.5c0-2.78-2.18-3.28-3.24-3.25C5.43 11.99 4.7 12.03 4 12.41V11.5c0-7.2 5.31-8 8-8 7.24 0 8 5.28 8 7.99v0.91c-0.69-0.38-1.42-0.41-1.75-0.41C17.2 11.96 15 12.47 15 15.25v2.5c0 3.33 3.08 3.25 3.25 3.25 1.05 0.04 3.25-0.47 3.25-3.25V11.5c0-8.34-6.37-9.57-9.5-9.5zM5.79 13.5c1.44-0.01 1.71 0.92 1.71 1.75v2.5c0 1.65-1.17 1.76-1.79 1.75C4.29 19.54 4 18.57 4 17.75v-2.5c0-0.62 0.13-1.79 1.79-1.75zM20 17.75c0 1.17-0.55 1.76-1.79 1.75-0.2 0.01-1.71 0.09-1.71-1.75v-2.5c0-1.62 1.1-1.75 1.72-1.75 0.1 0 1.78-0.2 1.78 1.75v2.5z"/>
-</vector>

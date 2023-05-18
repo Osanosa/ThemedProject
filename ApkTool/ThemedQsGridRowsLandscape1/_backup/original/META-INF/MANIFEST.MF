@@ -4,5 +4,5 @@ Name: AndroidManifest.xml
 SHA1-Digest: IWe2qzh9YC5O/vnI0gR/k67H38k=
 
 Name: resources.arsc
-SHA1-Digest: /JscgTgjmkHw1dUfgaa5My+CTyM=
+SHA1-Digest: yeZQj4wo+GFJgsEs8UepOmEvyhk=
 

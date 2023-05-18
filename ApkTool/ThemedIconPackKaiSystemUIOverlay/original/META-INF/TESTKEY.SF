@@ -1,0 +1,506 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: kl6maX3fKpxlAsVtiyzvwWsSfEo=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: cwnklwGe7qjF91UijP02MC0hNLc=
+
+Name: res/anim/$$lock_lock__1__0.xml
+SHA1-Digest: 25RUk2vjY8dDXn9JW4dszHQQIeM=
+
+Name: res/anim/$$lock_lock__1__1.xml
+SHA1-Digest: /1aV84ie+mROVLbBHPuIOvP7l/4=
+
+Name: res/anim/$$lock_lock__1__2.xml
+SHA1-Digest: FhrbLOUdaMCrSs206cMyKyGyu8I=
+
+Name: res/anim/$$lock_lock__2__0.xml
+SHA1-Digest: gO0hMu7ttpkYp/dXM3RanVdCXqE=
+
+Name: res/anim/$$lock_lock__2__1.xml
+SHA1-Digest: Ji27+oS7Uxl/PZ/Rpwc0iLwxJXc=
+
+Name: res/anim/$$lock_lock__2__2.xml
+SHA1-Digest: cBcHAuPJ9o6zWuguKlcZKT/Cr1U=
+
+Name: res/anim/$$lock_lock__2__3.xml
+SHA1-Digest: 1ISu2KOaOMR51EJBGD3v/UnezHQ=
+
+Name: res/anim/$$lock_lock__2__4.xml
+SHA1-Digest: qRQt5TRbGqymoHVODj1Re03LYdY=
+
+Name: res/anim/$$lock_lock__2__5.xml
+SHA1-Digest: WpRnwyb8vccIbREuVDfSNOjD9sc=
+
+Name: res/anim/$$lock_lock__3__0.xml
+SHA1-Digest: QIaBnXvdH28IffLGSUywT5RR2EI=
+
+Name: res/anim/$$lock_lock__3__1.xml
+SHA1-Digest: /93g7C1e/6lgBmXdDMJ3REd9wJU=
+
+Name: res/anim/$$lock_lock__3__2.xml
+SHA1-Digest: qZh0hY8q3gANbb33K0KWcHpxesE=
+
+Name: res/anim/$$lock_lock__4__0.xml
+SHA1-Digest: SfMkiXoH6Y6+aHrOmhuzWa7SkJ8=
+
+Name: res/anim/$$lock_lock__4__1.xml
+SHA1-Digest: XgX5thtxT09wEh6EbUGJmhN3BKw=
+
+Name: res/anim/$$lock_lock__5__0.xml
+SHA1-Digest: uo0S/AmN/CnUVPpsRbPecM0mdsQ=
+
+Name: res/anim/$$lock_lock__5__1.xml
+SHA1-Digest: sXfzI0btuhSWY62RZghPMi+2fHc=
+
+Name: res/anim/$$lock_lock__5__2.xml
+SHA1-Digest: d/m3wWxV6p+gyMloOL0ESwz288c=
+
+Name: res/anim/$$lock_scanning__1__0.xml
+SHA1-Digest: 7eUtRl/S91ymqJu53A/u5J6MqIM=
+
+Name: res/anim/$$lock_scanning__1__1.xml
+SHA1-Digest: I/5pByjVdc50exLisosfW1NGd6Y=
+
+Name: res/anim/$$lock_scanning__1__2.xml
+SHA1-Digest: vtrHf1FJZl8zBIxXjtNxIIAFSKM=
+
+Name: res/anim/$$lock_scanning__1__3.xml
+SHA1-Digest: rnMS8Ht7xp2Xm691Pl47+53CUeY=
+
+Name: res/anim/$$lock_scanning__1__4.xml
+SHA1-Digest: uUo+zC5Xos8DtAzUcxamWmgrICs=
+
+Name: res/anim/$$lock_scanning__1__5.xml
+SHA1-Digest: 9GiSQrgwN1YS9UKvflcgA5c4G2U=
+
+Name: res/anim/$$lock_scanning__2__0.xml
+SHA1-Digest: GLnuiIBuu+h0+IWY9Q0/bOt2vLo=
+
+Name: res/anim/$$lock_scanning__2__1.xml
+SHA1-Digest: avEt3lckEAtoDBHZAvQLZ40B1DA=
+
+Name: res/anim/$$lock_scanning__2__2.xml
+SHA1-Digest: gpdI86kUcarpNnnkkFGyClBnxI0=
+
+Name: res/anim/$$lock_scanning__2__3.xml
+SHA1-Digest: OZ4PPTfgMzgeW97XH6LJad2BT9s=
+
+Name: res/anim/$$lock_scanning__2__4.xml
+SHA1-Digest: 78/uhjpcdhukeXRYQBb1re9AQfg=
+
+Name: res/anim/$$lock_scanning__2__5.xml
+SHA1-Digest: lx6yb79wYhhDaR/AZ6AInMxIqTY=
+
+Name: res/anim/$$lock_scanning__3__0.xml
+SHA1-Digest: aTR6VbM6ydQpuqghhzwFUtHBGaw=
+
+Name: res/anim/$$lock_scanning__3__1.xml
+SHA1-Digest: sndx48kHJfrUIiufYlXlG6BjPPE=
+
+Name: res/anim/$$lock_scanning__3__2.xml
+SHA1-Digest: 5alenonieMp5R4jp42zzjivxBvU=
+
+Name: res/anim/$$lock_scanning__3__3.xml
+SHA1-Digest: p4de70033qjMJP/UetOVThzgtVM=
+
+Name: res/anim/$$lock_scanning__3__4.xml
+SHA1-Digest: 2gPn4xqJb5xwGdFrfUiuZqYUQ3s=
+
+Name: res/anim/$$lock_scanning__3__5.xml
+SHA1-Digest: jXAbiU+j+OCPsvfG8jX1BYqJRcA=
+
+Name: res/anim/$$lock_scanning__4__0.xml
+SHA1-Digest: 2y6KWcjh+V5FFevc5Gzp75dyo28=
+
+Name: res/anim/$$lock_scanning__4__1.xml
+SHA1-Digest: PK6DUhrb2r6vsGmDdNtTK60K2YY=
+
+Name: res/anim/$$lock_scanning__5__0.xml
+SHA1-Digest: Sn/3gwCTLG2pBekqKTEGseYLWS4=
+
+Name: res/anim/$$lock_scanning__5__1.xml
+SHA1-Digest: AnbkIz4Jb1zWQc01oslVoiCBnZw=
+
+Name: res/anim/$$lock_scanning__6__0.xml
+SHA1-Digest: Ak+2SPcps8a1epJBh4N3H08mu7g=
+
+Name: res/anim/$$lock_scanning__6__1.xml
+SHA1-Digest: o04hw+sSiIpwCuZETDcSXldgQ5Y=
+
+Name: res/anim/$$lock_scanning__6__2.xml
+SHA1-Digest: hIDTzn7flMwOqqFxeT8ip+i1R18=
+
+Name: res/anim/$$lock_scanning__6__3.xml
+SHA1-Digest: FE4hxxMm+U1XlkrvCgMTrHHkd+A=
+
+Name: res/anim/$$lock_scanning__6__4.xml
+SHA1-Digest: 3DslP+gFzRWyyTuZ9ccyPtiEPtI=
+
+Name: res/anim/$$lock_scanning__6__5.xml
+SHA1-Digest: quYEmqfPWCYWuSovA6Epr4FFBzI=
+
+Name: res/anim/$$lock_to_error__1__0.xml
+SHA1-Digest: iS/zuNJUdhLcEhDYsQ10MnIEUQg=
+
+Name: res/anim/$$lock_to_error__1__1.xml
+SHA1-Digest: nm/L+W6fwPjS+LE59CN4DEm/XJE=
+
+Name: res/anim/$$lock_to_error__1__2.xml
+SHA1-Digest: x/imTXgGkUoMT0H/xb4ynEu4ln4=
+
+Name: res/anim/$$lock_to_error__1__3.xml
+SHA1-Digest: 0gt+DYm8PrHADhKiqlDHeC2X4ms=
+
+Name: res/anim/$$lock_to_error__2__0.xml
+SHA1-Digest: Eje6UVrjM499xM+0cTfsbVHwjLU=
+
+Name: res/anim/$$lock_to_error__2__1.xml
+SHA1-Digest: 7YOn11BYwaGmFECbRxb9ZN7XEeY=
+
+Name: res/anim/$$lock_to_error__2__2.xml
+SHA1-Digest: sZ3xLmszkCOlaMrl69hdKGe1GEw=
+
+Name: res/anim/$$lock_to_error__2__3.xml
+SHA1-Digest: r+V7Zmyk4JFqOT2I4XL4IwAfalE=
+
+Name: res/anim/$$lock_to_error__3__0.xml
+SHA1-Digest: UIqBQboSW1w8e2Y9z6zYl8cVk7Y=
+
+Name: res/anim/$$lock_to_error__3__1.xml
+SHA1-Digest: tn5BFWr3IJqAml+FFStRY3jo7o8=
+
+Name: res/anim/$$lock_to_error__3__2.xml
+SHA1-Digest: or2jbIopYSKX7CFcZ4gemPSnnDk=
+
+Name: res/anim/$$lock_to_error__3__3.xml
+SHA1-Digest: pd32uOutoIvickkB08MhrkcqmFw=
+
+Name: res/anim/$$lock_unlock__1__0.xml
+SHA1-Digest: aUYNUaBbStKnwoKw7o6B2WNZuQ4=
+
+Name: res/anim/$$lock_unlock__1__1.xml
+SHA1-Digest: Z7YVsGPGaGqlnnP4MRLGXE8AeT0=
+
+Name: res/anim/$$lock_unlock__1__2.xml
+SHA1-Digest: al4pDDxZ+nSt6o8ABbJiYvP8PcA=
+
+Name: res/anim/$$lock_unlock__2__0.xml
+SHA1-Digest: z612Kt7l7Y6Zlqe3y5MBijTI7D0=
+
+Name: res/anim/$$lock_unlock__2__1.xml
+SHA1-Digest: fFYfWQUQFSwHkvQW7HoQeeja5VA=
+
+Name: res/anim/$$lock_unlock__2__2.xml
+SHA1-Digest: KWiT26ZkCW0GhoB6QZIa5cVtl1E=
+
+Name: res/anim/$$lock_unlock__2__3.xml
+SHA1-Digest: MxUbduyT7l9IWmD/ZcZcVVK0og8=
+
+Name: res/anim/$$lock_unlock__3__0.xml
+SHA1-Digest: sNuXuQaHjF+U4Tsp5GaiN8mSFeI=
+
+Name: res/anim/$$lock_unlock__3__1.xml
+SHA1-Digest: iMk8Gue+Oh7hY74qWeBvPRLh3WQ=
+
+Name: res/anim/$$lock_unlock__3__2.xml
+SHA1-Digest: EKexeowEs8MBALcavw7fOLG03qA=
+
+Name: res/anim/$$lock_unlock__4__0.xml
+SHA1-Digest: EfTMSgI2NFH9a8prfW9TFiNiUfk=
+
+Name: res/anim/$$lock_unlock__4__1.xml
+SHA1-Digest: lU3h/P2y9fytZAHD0QZHaJ7P6ck=
+
+Name: res/anim/$$lock_unlock__5__0.xml
+SHA1-Digest: zoYYt1bxsd4IxnNn2pSRxIVfTAU=
+
+Name: res/anim/$$lock_unlock__5__1.xml
+SHA1-Digest: 17wiRL0FXtxpL5hAvRMmvqfeAJw=
+
+Name: res/anim/$$lock_unlock__5__2.xml
+SHA1-Digest: SLRqTgUOYA8yNGH7bnYqk9dmGvE=
+
+Name: res/anim/$lock_lock__0.xml
+SHA1-Digest: PksuNR8ES0+7b0fQkVfMU2o3CeM=
+
+Name: res/anim/$lock_lock__1.xml
+SHA1-Digest: 0RVnsqXNMOLb/9vp68ZidzBDRDc=
+
+Name: res/anim/$lock_lock__2.xml
+SHA1-Digest: JDBWzF4rPMhOEfN+h29qzmo9ppw=
+
+Name: res/anim/$lock_lock__3.xml
+SHA1-Digest: c0z+9tRAyJm/Q2wzxB99m5S/FE8=
+
+Name: res/anim/$lock_lock__4.xml
+SHA1-Digest: znetPwfU49j8KMcEZknWXOgkskY=
+
+Name: res/anim/$lock_lock__5.xml
+SHA1-Digest: UFsb0oaS2kFoPNhPWkNDQaUWRNI=
+
+Name: res/anim/$lock_lock__6.xml
+SHA1-Digest: 8bIvv6KBoUJqwxJC0tXeS1rfDnk=
+
+Name: res/anim/$lock_scanning__0.xml
+SHA1-Digest: LTi6rzDGwHY14zi0iBjwmADndLc=
+
+Name: res/anim/$lock_scanning__1.xml
+SHA1-Digest: 7VEN5M6HJBjH0jIQY+qFwNJpKIw=
+
+Name: res/anim/$lock_scanning__2.xml
+SHA1-Digest: HtbnjpudI9lN1solMgVLHaIpp+E=
+
+Name: res/anim/$lock_scanning__3.xml
+SHA1-Digest: EIX/eHj4L/iiCpPRd92OYZiVOXc=
+
+Name: res/anim/$lock_scanning__4.xml
+SHA1-Digest: /MwGrXWeHQTt0DEXbzH+FzkUw8k=
+
+Name: res/anim/$lock_scanning__5.xml
+SHA1-Digest: +JvUKEvEN9GvVgtBZfqqgqedE+U=
+
+Name: res/anim/$lock_scanning__6.xml
+SHA1-Digest: 2TbMyvkl/e2NCSFI2qaXpgAxNWs=
+
+Name: res/anim/$lock_scanning__7.xml
+SHA1-Digest: 31u48W551UVHnQTCA2o7sHW4mJs=
+
+Name: res/anim/$lock_to_error__0.xml
+SHA1-Digest: Pd7WP2K1R0Ab8JMCRxytcci0hpw=
+
+Name: res/anim/$lock_to_error__1.xml
+SHA1-Digest: 1tS/hol1MvXdbdUPSNsz6FuW138=
+
+Name: res/anim/$lock_to_error__2.xml
+SHA1-Digest: NlBzB5tkD6oxdKzWETlyQKZ8AKk=
+
+Name: res/anim/$lock_to_error__3.xml
+SHA1-Digest: vUdKmMPJ/6VmeKRh7b/mib9O65s=
+
+Name: res/anim/$lock_to_error__4.xml
+SHA1-Digest: /nWDPrWUWNW1kXSMXl3RcRLIHoE=
+
+Name: res/anim/$lock_unlock__0.xml
+SHA1-Digest: GH1nitJkq90gQETcrtYkb/Cs6ig=
+
+Name: res/anim/$lock_unlock__1.xml
+SHA1-Digest: /DdgY8Cl0ukzyKFQz0+X3X+Pu8Q=
+
+Name: res/anim/$lock_unlock__2.xml
+SHA1-Digest: rCTVpfRfvzO1urhFKpVK/6abPxI=
+
+Name: res/anim/$lock_unlock__3.xml
+SHA1-Digest: IuRVJ/uQ4qVKtcvUnIUTug2wgRo=
+
+Name: res/anim/$lock_unlock__4.xml
+SHA1-Digest: JpZa0jrQegekPcTMYvyND4vLB80=
+
+Name: res/anim/$lock_unlock__5.xml
+SHA1-Digest: L6NizxrgYXJMfM8CJQnSaie3cOQ=
+
+Name: res/anim/$lock_unlock__6.xml
+SHA1-Digest: akOIU6OLYYmr7juOlo/7RtlMp3I=
+
+Name: res/anim/lock_lock.xml
+SHA1-Digest: He3NTWmvm7QeCIP5AlXpfMJSIVw=
+
+Name: res/anim/lock_scanning.xml
+SHA1-Digest: 8UkW9KDHPBQ64scYaccZpBgdPS4=
+
+Name: res/anim/lock_to_error.xml
+SHA1-Digest: NMzGI+Y6WVdiHDz41L51voGf0wE=
+
+Name: res/anim/lock_unlock.xml
+SHA1-Digest: qjDXFh58KrptZPr9kWTf5F4Of2E=
+
+Name: res/drawable/$$ic_volume_collapse_animation__1__0.xml
+SHA1-Digest: d0yb5G7yy7kSwjB/UJ57o9sKaW0=
+
+Name: res/drawable/$$ic_volume_expand_animation__1__0.xml
+SHA1-Digest: yHypCyWjRZd3tIK8X18DivDKdvM=
+
+Name: res/drawable/$ic_volume_collapse_animation__0.xml
+SHA1-Digest: mb2+ivenW+FXuZTXmYAaT6Uyirw=
+
+Name: res/drawable/$ic_volume_collapse_animation__1.xml
+SHA1-Digest: C8ZFww/TdFJvbJGXtvPMeq7T6UE=
+
+Name: res/drawable/$ic_volume_collapse_animation__2.xml
+SHA1-Digest: /7wqq8WUfkPOZdbOuOgz1/p72ws=
+
+Name: res/drawable/$ic_volume_expand_animation__0.xml
+SHA1-Digest: pMbjMaMtCeUdUsM0GWReEdaK33g=
+
+Name: res/drawable/$ic_volume_expand_animation__1.xml
+SHA1-Digest: Y+th0o43vmgWu+ijvQTszEHSNpE=
+
+Name: res/drawable/$ic_volume_expand_animation__2.xml
+SHA1-Digest: 0LPKGKvzvfCGSr+S+CeCCtJu55Y=
+
+Name: res/drawable/ic_alarm.xml
+SHA1-Digest: rngxr6kbOAfEOc6J/dUYIm++suA=
+
+Name: res/drawable/ic_alarm_dim.xml
+SHA1-Digest: /lYSYDGHECrG8dzeMHItwVUIie8=
+
+Name: res/drawable/ic_arrow_back.xml
+SHA1-Digest: 0PbSPpN3zhqLJCmsa4K76iQzwR4=
+
+Name: res/drawable/ic_bluetooth_connected.xml
+SHA1-Digest: ESFn1i2e+9kRnTigoExr+GJ4Mg0=
+
+Name: res/drawable/ic_brightness_thumb.xml
+SHA1-Digest: e2Y7CTPtmGVaXXwaW641z2D8QJY=
+
+Name: res/drawable/ic_camera.xml
+SHA1-Digest: eQKjdLXnCuj21mwR6KD9RZha9bQ=
+
+Name: res/drawable/ic_cast.xml
+SHA1-Digest: Bmc4n485OVzfsHDzf7Pr4DClxXw=
+
+Name: res/drawable/ic_cast_connected.xml
+SHA1-Digest: Qsj0iPeItTzvNDmg/hL9RFEqQWI=
+
+Name: res/drawable/ic_close_white.xml
+SHA1-Digest: O/dZL97fm8cFV7dIOXTUVLG1iac=
+
+Name: res/drawable/ic_data_saver.xml
+SHA1-Digest: 7TPADzDLCy1YUEBqlxCuYbKODi8=
+
+Name: res/drawable/ic_data_saver_off.xml
+SHA1-Digest: GY/hWHe5l0MhQb9wP2mEaVuKGCc=
+
+Name: res/drawable/ic_drag_handle.xml
+SHA1-Digest: WrOAotWKoS/07feYELgPFKLwFLY=
+
+Name: res/drawable/ic_headset.xml
+SHA1-Digest: HLcA5tyJcTMbHdcg2fSBpY6FNxo=
+
+Name: res/drawable/ic_headset_mic.xml
+SHA1-Digest: 7zxsyTS4hrWUCzycMYAdIiE5nso=
+
+Name: res/drawable/ic_hotspot.xml
+SHA1-Digest: OFg2ubuioC8g1kGszBfEAt704H4=
+
+Name: res/drawable/ic_info.xml
+SHA1-Digest: bPCtI5YRepB9X8y78aDW9yNetdk=
+
+Name: res/drawable/ic_info_outline.xml
+SHA1-Digest: tOaXDRJ2ULWdSsDitcPI8w1kzsQ=
+
+Name: res/drawable/ic_invert_colors.xml
+SHA1-Digest: +9j0P0HtC9hzh2J8m3XW2/3ZJmk=
+
+Name: res/drawable/ic_location.xml
+SHA1-Digest: zDWN3LzOutfilENQJ9I5OFx9jM0=
+
+Name: res/drawable/ic_lockscreen_ime.xml
+SHA1-Digest: Pi5LC2uiJQ9CgGFYAkF7IoBOWbY=
+
+Name: res/drawable/ic_notifications_alert.xml
+SHA1-Digest: ryox/SKvgB7Q1s4bxPE+HkI6SQ0=
+
+Name: res/drawable/ic_notifications_silence.xml
+SHA1-Digest: WM6fwCaarMZObjjD8J3rpo3SNvE=
+
+Name: res/drawable/ic_power_low.xml
+SHA1-Digest: lY5UuflSPme+CgqzQ+QrC4i0UiM=
+
+Name: res/drawable/ic_power_saver.xml
+SHA1-Digest: iscKlKODlbAdbM9GTdb1KuoJDxk=
+
+Name: res/drawable/ic_qs_bluetooth_connecting.xml
+SHA1-Digest: 978eV3dH23+crOmygFIXmX7DgK4=
+
+Name: res/drawable/ic_qs_cancel.xml
+SHA1-Digest: 4H+vQ+Fq6F+G0FtZUjGPcXRJZAg=
+
+Name: res/drawable/ic_qs_no_sim.xml
+SHA1-Digest: ZQM5HfT49WU5NaWx37z0cb+4QjE=
+
+Name: res/drawable/ic_qs_wifi_0.xml
+SHA1-Digest: 79tTnMdJPDd74ZZinpd4w9gjLlM=
+
+Name: res/drawable/ic_qs_wifi_1.xml
+SHA1-Digest: OOHocR1NfFJqdVjraPOKF8LQiMc=
+
+Name: res/drawable/ic_qs_wifi_2.xml
+SHA1-Digest: WnhBhX4gBqUGt0MIft0+CVWnmFA=
+
+Name: res/drawable/ic_qs_wifi_3.xml
+SHA1-Digest: llwYnrjl9K1D7pSBjSOVs6kWtWk=
+
+Name: res/drawable/ic_qs_wifi_4.xml
+SHA1-Digest: KtVNn8xE8wliEPjcwgExEGD2PIo=
+
+Name: res/drawable/ic_qs_wifi_disconnected.xml
+SHA1-Digest: s2R1VjINH10VJHOw5J3bpAUa3gs=
+
+Name: res/drawable/ic_screenrecord.xml
+SHA1-Digest: ZPLuft4TOuOdE+594rqaqDsc0jM=
+
+Name: res/drawable/ic_screenshot.xml
+SHA1-Digest: lekCVoocsi6kWc6RrSodvD4wH2A=
+
+Name: res/drawable/ic_screenshot_delete.xml
+SHA1-Digest: kmckDMQKvQIC572Oav7LQwPURLU=
+
+Name: res/drawable/ic_settings.xml
+SHA1-Digest: MZaFnGexS8ypOb3jr8192JX8EOI=
+
+Name: res/drawable/ic_swap_vert.xml
+SHA1-Digest: wnOnco/Hga3zJtYuGd4WU56f9Ag=
+
+Name: res/drawable/ic_tune_black_16dp.xml
+SHA1-Digest: QnktPyhQJovo9NQ6Ieks/GnJU5E=
+
+Name: res/drawable/ic_volume_alarm_mute.xml
+SHA1-Digest: BMK1iDw8jn0teGyHuvKF+mTv8G0=
+
+Name: res/drawable/ic_volume_bt_sco.xml
+SHA1-Digest: VJeHe2oSxDLjC2Nt1hfGcoO4YUo=
+
+Name: res/drawable/ic_volume_collapse_animation.xml
+SHA1-Digest: 79wXv6KtSztStNQAJY7d+kqFTmk=
+
+Name: res/drawable/ic_volume_expand_animation.xml
+SHA1-Digest: npg8Gt52Qc/q1OktNyxxMXW7HX8=
+
+Name: res/drawable/ic_volume_media.xml
+SHA1-Digest: JKpZ6SjZSDqy3RvyXmrzZ35mPZo=
+
+Name: res/drawable/ic_volume_media_mute.xml
+SHA1-Digest: XeR8pdF4WioX+Iga9dItFZg7Hwk=
+
+Name: res/drawable/ic_volume_odi_captions.xml
+SHA1-Digest: TP/GxydDO+Y8Z8hPsty9HkNAr2k=
+
+Name: res/drawable/ic_volume_odi_captions_disabled.xml
+SHA1-Digest: RT8/mkFYWruBmYbbvi2YBPA+BMU=
+
+Name: res/drawable/ic_volume_ringer.xml
+SHA1-Digest: gzIGyU1mrF/uMUGlwTNpBjVm2c8=
+
+Name: res/drawable/ic_volume_ringer_mute.xml
+SHA1-Digest: 3T8EwYSaJTnjcsIrPAHCVNZHsz8=
+
+Name: res/drawable/ic_volume_ringer_vibrate.xml
+SHA1-Digest: eM3UUpra/lPm/g/WWUPZz7j/qY8=
+
+Name: res/drawable/ic_volume_voice.xml
+SHA1-Digest: kffDJkeQ6SONG9015xpOGdkj+XQ=
+
+Name: res/drawable/stat_sys_managed_profile_status.xml
+SHA1-Digest: pHDKsFzEcHMJyb6u/TkVmKXVuBo=
+
+Name: res/drawable/stat_sys_mic_none.xml
+SHA1-Digest: LYStkycj/d0T0FF7CKYfZOZeIXk=
+
+Name: res/drawable/stat_sys_vpn_ic.xml
+SHA1-Digest: ryFH6faOIaRmrzKTW0BmMpiwEzY=
+
+Name: resources.arsc
+SHA1-Digest: CBrJtl0x2+RMkicrck+0UA947oQ=
+

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<vector android:tint="@android:color/car_body1_dark" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0" xmlns:android="http://schemas.android.com/apk/res/android">
-    <path android:fillColor="@android:color/white" android:pathData="M20.59 6H16V3.41L14.59 2H9.41L8 3.41V6H3.41L2 7.41v12.17L3.41 21h17.17L22 19.59V7.41L20.59 6zM9.5 3.5h5V6h-5V3.5zm11 16h-17v-12h17v12z"/>
-    <path android:fillColor="@android:color/white" android:pathData="M12 12c0.828 0 1.5 0.672 1.5 1.5S12.828 15 12 15s-1.5-0.672-1.5-1.5S11.172 12 12 12z"/>
-</vector>
