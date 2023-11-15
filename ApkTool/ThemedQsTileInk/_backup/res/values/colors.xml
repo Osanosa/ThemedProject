@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="qs_tiles_active_tint">@android:color/accent_device_default_light</color>
-    <color name="qs_tiles_background_active_tint">@android:color/accent_device_default_light</color>
-</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="bg_clear" id="0x7f020000" />
+    <public type="drawable" name="bg_default" id="0x7f020001" />
+    <public type="drawable" name="bv_qs_tile_background_shape" id="0x7f020002" />
+    <public type="drawable" name="circlegradient" id="0x7f020003" />
+    <public type="drawable" name="circletrim" id="0x7f020004" />
+    <public type="drawable" name="cookie" id="0x7f020005" />
+    <public type="drawable" name="cosmos" id="0x7f020006" />
+    <public type="drawable" name="defaultcircle" id="0x7f020007" />
+    <public type="drawable" name="dividedcircle" id="0x7f020008" />
+    <public type="drawable" name="dottedcircle" id="0x7f020009" />
+    <public type="drawable" name="dualtonecircle" id="0x7f02000a" />
+    <public type="drawable" name="dualtonecircletrim" id="0x7f02000b" />
+    <public type="drawable" name="ic_qs_circle" id="0x7f02000c" />
+    <public type="drawable" name="ink" id="0x7f02000d" />
+    <public type="drawable" name="inkdrop" id="0x7f02000e" />
+    <public type="drawable" name="justicons" id="0x7f02000f" />
+    <public type="drawable" name="mountain" id="0x7f020010" />
+    <public type="drawable" name="neonlike" id="0x7f020011" />
+    <public type="drawable" name="ninja" id="0x7f020012" />
+    <public type="drawable" name="oreocircletrim" id="0x7f020013" />
+    <public type="drawable" name="oreosquircletrim" id="0x7f020014" />
+    <public type="drawable" name="pokesign" id="0x7f020015" />
+    <public type="drawable" name="qs_tile_background_shape" id="0x7f020016" />
+    <public type="drawable" name="squaremedo" id="0x7f020017" />
+    <public type="drawable" name="squircle" id="0x7f020018" />
+    <public type="drawable" name="squircletrim" id="0x7f020019" />
+    <public type="drawable" name="teardrop" id="0x7f02001a" />
+    <public type="drawable" name="themed_qspanel" id="0x7f02001b" />
+    <public type="drawable" name="triangle" id="0x7f02001c" />
+    <public type="drawable" name="wavey" id="0x7f02001d" />
+    <public type="dimen" name="qs_label_container_margin" id="0x7f030000" />
+    <public type="dimen" name="qs_tile_start_padding" id="0x7f030001" />
+</resources>

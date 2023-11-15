@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" package="themed.accents.dark.FF2196F3" platformBuildVersionCode="29" platformBuildVersionName="10">
-    <overlay android:category="themed.accent.dark" android:priority="1" android:targetPackage="android"/>
-    <application android:extractNativeLibs="false" android:hasCode="false" android:label="ThemedAccentDarkFF2196F3"/>
-</manifest>

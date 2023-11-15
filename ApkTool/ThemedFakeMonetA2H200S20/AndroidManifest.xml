@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="30" android:compileSdkVersionCodename="11" package="themed.fakemonet.a2h200s20" platformBuildVersionCode="26" platformBuildVersionName="8">
-    <overlay android:category="themed.fakemonet.a2" android:priority="1" android:targetPackage="android"/>
-    <application android:extractNativeLibs="false" android:hasCode="false" android:label="ThemedFakeMonetA2H200S20"/>
-</manifest>

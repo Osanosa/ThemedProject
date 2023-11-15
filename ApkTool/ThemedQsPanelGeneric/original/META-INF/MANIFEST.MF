@@ -1,0 +1,100 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: AhqeC4MjPuldP1jRU0wtD5vsbq/J0oczOyLRWDbFEdA=
+
+Name: res/drawable/bg_clear.xml
+SHA-256-Digest: QKOyEAufw84rwl0dQTwognfNWR3jh3P64kW9/IBFLE8=
+
+Name: res/drawable/bg_default.xml
+SHA-256-Digest: KCcttrEk17veh3zGi8A8tVZcIGZPqf8owvp7BS8Ydhg=
+
+Name: res/drawable/bv_qs_tile_background_shape.xml
+SHA-256-Digest: h0xfj0DhxGHWyqrcv4l6iqm7SV8foadN6fJIXjfwnIs=
+
+Name: res/drawable/circlegradient.xml
+SHA-256-Digest: ymb0UmZ5En/JkfK6JorQlMCOeUTrPFlcdZDJ+sQyZ0U=
+
+Name: res/drawable/circletrim.xml
+SHA-256-Digest: 1wymSpdAAnMyq7xgyLtfHQY7aw2Ff7Xmac2HToXtyNQ=
+
+Name: res/drawable/cookie.xml
+SHA-256-Digest: 08okdz6q3+GCkCw2S/Wjj30Ychg4jIzCE7JDcknLJCY=
+
+Name: res/drawable/cosmos.xml
+SHA-256-Digest: fQVZokOsMuYK3IxM1UA3UjAVJtaXFr4kBgD87LY2QL8=
+
+Name: res/drawable/defaultcircle.xml
+SHA-256-Digest: KMKiAkmpf1F3RSYJb8EFYTHWLkCbczIrgzqv2iHRm/c=
+
+Name: res/drawable/dividedcircle.xml
+SHA-256-Digest: nuDOv2REcaZvskbSzT8Bf7H4pnBvsM9csjoCW+Sms0U=
+
+Name: res/drawable/dottedcircle.xml
+SHA-256-Digest: gIwp7AJt2qjCBtGCLqcCR5pUv0Pznwqmo4h5xe0lrws=
+
+Name: res/drawable/dualtonecircle.xml
+SHA-256-Digest: EbjK5xCM4ETRFJTHiEdaeI/QP4dhPiLENzagy9ljAcg=
+
+Name: res/drawable/dualtonecircletrim.xml
+SHA-256-Digest: LKEGjScZTbbJqS7Wi8eL7DPSZ3Vkwgfqg578afIl7Eg=
+
+Name: res/drawable/ic_qs_circle.xml
+SHA-256-Digest: KTAE5iIZnrLPUaEWpWCwy+Ks8Por7Qdx3sxzg+FH7Hs=
+
+Name: res/drawable/ink.xml
+SHA-256-Digest: Ld42BZXi5wtcRJ0+IFiTOM3W5Vyoo1Fv5OMV1ZXoaeI=
+
+Name: res/drawable/inkdrop.xml
+SHA-256-Digest: AxFFeifEFSbpAuTA/ea7PLGwz55Xs2GCWuaesS3OvpU=
+
+Name: res/drawable/justicons.xml
+SHA-256-Digest: 4KQ5gKAXQys1W5CWy74LUyBvQz2NZOOPQgBd9PPyfxw=
+
+Name: res/drawable/mountain.xml
+SHA-256-Digest: hMmWxIthhw5BrUdeghxhpjGwKA98tin4WMn4n+nlZr8=
+
+Name: res/drawable/neonlike.xml
+SHA-256-Digest: x0KsLNxM/PAGnIqBF5DyBb8TKA1q/ZgVOHEB+7bjZjo=
+
+Name: res/drawable/ninja.xml
+SHA-256-Digest: f3zvCiPe0GsT9PzOssjdM5VDxoxHjbsW8KMo6f7X3Ss=
+
+Name: res/drawable/oreocircletrim.xml
+SHA-256-Digest: OEqR56bsJWR/74TXQRJ9bG7S1jLAhmjEgmR9kF4of9A=
+
+Name: res/drawable/oreosquircletrim.xml
+SHA-256-Digest: ph30OovcFqftm0GUp/17jx73o0zipZqRkxYagMF7CsU=
+
+Name: res/drawable/pokesign.xml
+SHA-256-Digest: Z7cor15RUyIZq0LnsWEVM0PPl0Qv2S0zK1EARk2h/xQ=
+
+Name: res/drawable/qs_tile_background_shape.xml
+SHA-256-Digest: xh55Czkj/qxBBJJAcVPMTaQ0aquq1e3PkLk2D1K9QKA=
+
+Name: res/drawable/squaremedo.xml
+SHA-256-Digest: kgdoQBukS0Vdc0q+BhRaF4r181Ym7gjmZQFMxYMQ7Wo=
+
+Name: res/drawable/squircle.xml
+SHA-256-Digest: 7RAPYWL8CF1k3f3/YpTXxB9t/OUvwAN4BjmsKTGC+WM=
+
+Name: res/drawable/squircletrim.xml
+SHA-256-Digest: AVDa4mEXb9+t9i0eL0RBCdKtC9GkZ4aw8sv7mcwTj1Q=
+
+Name: res/drawable/teardrop.xml
+SHA-256-Digest: Er9WTyqEd1pwRDIhBWIHQd/RsWp5CrZzsLxjbBk3r68=
+
+Name: res/drawable/themed_qspanel.xml
+SHA-256-Digest: GtNzxCkMSy+peFtC1Uwp9TpykUlU4TkmP3I4fzb3y+g=
+
+Name: res/drawable/triangle.xml
+SHA-256-Digest: u+ReUL+BdAlZuCj0X7hVelRaMG1TbPtuw5uldr4is1w=
+
+Name: res/drawable/wavey.xml
+SHA-256-Digest: Hmwxx4FryytitKhQM0fQtkbE5OMnY+1GL0cDVT/jNYQ=
+
+Name: resources.arsc
+SHA-256-Digest: DVZkAD+/QT7RCcYws+f9mBxErvHDI1rpUg5VYszM1ms=
+
