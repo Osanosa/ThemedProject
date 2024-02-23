@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <public type="integer" name="config_qs_rows_landscape" id="0x7f020000" />
-    <public type="integer" name="quick_settings_max_rows" id="0x7f020001" />
-</resources>
